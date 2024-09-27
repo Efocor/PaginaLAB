@@ -1,0 +1,84 @@
+
+.Property1Variant2_Property1Variant2 {
+	width: 155px;
+	height: 264px;
+}
+.Property1Variant2_Property1Variant2 .Rectangle82 {
+	position: absolute;
+	left: 0px;
+	top: 203px;
+	width: 155px;
+	height: 61px;
+	background: rgba(237,239,237,1.00);
+	border-radius: 15px;
+}
+.Property1Variant2_Property1Variant2 .Equipo {
+	position: absolute;
+	left: 42px;
+	top: 221px;
+	width: 70px;
+	height: 25px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Gothic A1;
+	font-size: 22px;
+	font-weight: 400;
+	line-height: 27.5px;
+}
+.Property1Variant2_Property1Variant2 .Rectangle80 {
+	position: absolute;
+	left: 0px;
+	top: 65px;
+	width: 155px;
+	height: 61px;
+	background: rgba(237,239,237,1.00);
+	border-radius: 15px;
+}
+.Property1Variant2_Property1Variant2 .Rectangle81 {
+	position: absolute;
+	left: 0px;
+	top: 134px;
+	width: 155px;
+	height: 61px;
+	background: rgba(237,239,237,1.00);
+	border-radius: 15px;
+}
+.Property1Variant2_Property1Variant2 .Investigacin {
+	position: absolute;
+	left: 15px;
+	top: 153px;
+	width: 130px;
+	height: 25px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 22px;
+	font-weight: 400;
+	line-height: 25.78125px;
+}
+.Property1Variant2_Property1Variant2 .Nosotros {
+	position: absolute;
+	left: 32px;
+	top: 83px;
+	width: 90px;
+	height: 25px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 22px;
+	font-weight: 400;
+	line-height: 25.78125px;
+}
+.Property1Variant2_Property1Variant2 .Component2 {
+	position: absolute;
+	left: -1px;
+	top: 0px;
+}
+.Property1Variant2_Property1Variant2 .Component2 .Rectangle80_1 {
+}
+.Property1Variant2_Property1Variant2 .Component2 .Nosotros_1 {
+	font-weight: 400;
+}

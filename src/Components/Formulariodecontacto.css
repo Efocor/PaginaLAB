@@ -1,0 +1,804 @@
+
+.Formulariodecontacto_Formulariodecontacto {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(255,255,255,1.00);
+}
+.Formulariodecontacto_Formulariodecontacto .Fondo {
+	position: absolute;
+	left: -2px;
+	top: 0px;
+	width: 1442px;
+	height: 828px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Formulariodecontacto_Formulariodecontacto .Frame1 {
+	position: absolute;
+	left: 50%;
+	top: 150px;
+	transform: translate(-50%, 0);
+	width: 1326px;
+	height: 660px;
+}
+.Formulariodecontacto_Formulariodecontacto .Frame1 .Rectangle2 {
+	position: absolute;
+	left: 50%;
+	top: 0px;
+	transform: translate(-50%, 0);
+	width: 1326px;
+	height: 680px;
+	background: rgba(254,254,254,0.86);
+	border-radius: 20px;
+}
+.Formulariodecontacto_Formulariodecontacto .Frame1 .Formulariodecontacto_1 {
+	position: absolute;
+	left: 52.526395173454%;
+	top: 40px;
+	transform: translate(-50%, 0);
+	width: 575px;
+	height: 70px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 50px;
+	font-weight: 300;
+	line-height: 70.3125px;
+}
+.Formulariodecontacto_Formulariodecontacto .Frame1 .Rectangle87 {
+	position: absolute;
+	left: 0px;
+	top: 737px;
+	width: 1326px;
+	height: 217px;
+	background: rgba(254,254,254,0.86);
+}
+.Formulariodecontacto_Formulariodecontacto .Frame1 .image12 {
+	position: absolute;
+	left: 18px;
+	top: 796px;
+	width: 100px;
+	height: 100px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Formulariodecontacto_Formulariodecontacto .Frame1 .Somosunequipodeinvestigacinqueconpasinycolaboracintransformaideasenrealidadyconstruyeelfuturo {
+	position: absolute;
+	left: 49.96229260935144%;
+	top: 756px;
+	transform: translate(-50%, 0);
+	width: 921px;
+	height: 108px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 25px;
+	font-weight: 400;
+	line-height: 29.296875px;
+}
+.Formulariodecontacto_Formulariodecontacto .Frame1 .Copyright20182024 {
+	position: absolute;
+	left: 50.03770739064856%;
+	top: 918px;
+	transform: translate(-50%, 0);
+	width: 435px;
+	height: 36px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 25px;
+	font-weight: 600;
+	line-height: 29.296875px;
+}
+.Formulariodecontacto_Formulariodecontacto .Frame1 .instagramlogo {
+	position: absolute;
+	left: 50%;
+	top: 839px;
+	transform: translate(-50%, 0);
+	width: 50px;
+	height: 50px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Formulariodecontacto_Formulariodecontacto .Frame1 .logox {
+	position: absolute;
+	left: 750px;
+	top: 839px;
+	width: 50px;
+	height: 50px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Formulariodecontacto_Formulariodecontacto .Frame1 .facebook {
+	position: absolute;
+	left: 526px;
+	top: 839px;
+	width: 50px;
+	height: 50px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Formulariodecontacto_Formulariodecontacto .Frame1 .list {
+	position: absolute;
+	left: 155px;
+	top: 157px;
+	width: 1100px;
+	height: 313px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+}
+.Formulariodecontacto_Formulariodecontacto .Frame1 .list .row {
+	position: relative;
+	flex: none;
+	margin-bottom: 40px;
+	height: 80px;
+	align-self: stretch;
+	display: flex;
+	box-sizing: border-box;
+}
+.Formulariodecontacto_Formulariodecontacto .Frame1 .list .row .Input {
+	position: relative;
+	flex: none;
+	margin-right: 80px;
+	width: 510px;
+	height: 80px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	justify-content: center;
+}
+.Formulariodecontacto_Formulariodecontacto .Frame1 .list .row .Input .title {
+	position: relative;
+	flex: none;
+	margin-bottom: 4px;
+	height: 20px;
+	align-self: stretch;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 24px;
+	font-weight: 500;
+	line-height: 20px;
+}
+.Formulariodecontacto_Formulariodecontacto .Frame1 .list .row .Input .textfield {
+	position: relative;
+	flex: none;
+	margin-bottom: 4px;
+	height: 36px;
+	align-self: stretch;
+	display: flex;
+	padding-top: 8px;
+	padding-right: 12px;
+	padding-bottom: 8px;
+	padding-left: 12px;
+	box-sizing: border-box;
+	align-items: center;
+	background: rgba(255,255,255,0.60);
+	border-radius: 6px;
+	border: 1px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+}
+.Formulariodecontacto_Formulariodecontacto .Frame1 .list .row .Input .textfield .text {
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 486px;
+	height: 20px;
+	color: rgba(0,0,0,0.50);
+	font-family: Roboto;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 20px;
+}
+.Formulariodecontacto_Formulariodecontacto .Frame1 .list .row .Input .info {
+	position: relative;
+	flex: none;
+	margin-bottom: 4px;
+	height: 16px;
+	align-self: stretch;
+	color: rgba(0,0,0,0.50);
+	font-family: Roboto;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 16px;
+}
+.Formulariodecontacto_Formulariodecontacto .Frame1 .list .row .Input_1 {
+	position: relative;
+	flex: none;
+	margin-right: 80px;
+	width: 510px;
+	height: 80px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	justify-content: center;
+}
+.Formulariodecontacto_Formulariodecontacto .Frame1 .list .row .Input_1 .title_1 {
+	position: relative;
+	flex: none;
+	margin-bottom: 4px;
+	height: 20px;
+	align-self: stretch;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 24px;
+	font-weight: 500;
+	line-height: 20px;
+}
+.Formulariodecontacto_Formulariodecontacto .Frame1 .list .row .Input_1 .textfield_1 {
+	position: relative;
+	flex: none;
+	margin-bottom: 4px;
+	height: 36px;
+	align-self: stretch;
+	display: flex;
+	padding-top: 8px;
+	padding-right: 12px;
+	padding-bottom: 8px;
+	padding-left: 12px;
+	box-sizing: border-box;
+	align-items: center;
+	background: rgba(255,255,255,0.60);
+	border-radius: 6px;
+	border: 1px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+}
+.Formulariodecontacto_Formulariodecontacto .Frame1 .list .row .Input_1 .textfield_1 .text_1 {
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 486px;
+	height: 20px;
+	color: rgba(0,0,0,0.50);
+	font-family: Roboto;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 20px;
+}
+.Formulariodecontacto_Formulariodecontacto .Frame1 .list .row .Input_1 .info_1 {
+	position: relative;
+	flex: none;
+	margin-bottom: 4px;
+	height: 16px;
+	align-self: stretch;
+	color: rgba(0,0,0,0.50);
+	font-family: Roboto;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 16px;
+}
+.Formulariodecontacto_Formulariodecontacto .Frame1 .list .row_1 {
+	position: relative;
+	flex: none;
+	margin-bottom: 40px;
+	height: 80px;
+	align-self: stretch;
+	display: flex;
+	box-sizing: border-box;
+}
+.Formulariodecontacto_Formulariodecontacto .Frame1 .list .row_1 .Selection {
+	position: relative;
+	flex: none;
+	margin-right: 80px;
+	width: 510px;
+	height: 80px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Formulariodecontacto_Formulariodecontacto .Frame1 .list .row_1 .Selection .title_2 {
+	position: relative;
+	flex: none;
+	margin-bottom: 4px;
+	height: 20px;
+	align-self: stretch;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 24px;
+	font-weight: 500;
+	line-height: 20px;
+}
+.Formulariodecontacto_Formulariodecontacto .Frame1 .list .row_1 .Selection .chipgroup {
+	position: relative;
+	flex: none;
+	margin-bottom: 4px;
+	height: 36px;
+	align-self: stretch;
+	display: flex;
+	box-sizing: border-box;
+}
+.Formulariodecontacto_Formulariodecontacto .Frame1 .list .row_1 .Selection .chipgroup .chip {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 72px;
+	height: 36px;
+	display: flex;
+	flex-direction: column;
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-bottom: 8px;
+	padding-left: 8px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(0,0,0,0.05);
+	border-radius: 6px;
+}
+.Formulariodecontacto_Formulariodecontacto .Frame1 .list .row_1 .Selection .chipgroup .chip .text_2 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 56px;
+	height: 20px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 20px;
+}
+.Formulariodecontacto_Formulariodecontacto .Frame1 .list .row_1 .Selection .chipgroup .chip_1 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 99px;
+	height: 36px;
+	display: flex;
+	flex-direction: column;
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-bottom: 8px;
+	padding-left: 8px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(0,0,0,0.05);
+	border-radius: 6px;
+}
+.Formulariodecontacto_Formulariodecontacto .Frame1 .list .row_1 .Selection .chipgroup .chip_1 .text_3 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 83px;
+	height: 20px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 20px;
+}
+.Formulariodecontacto_Formulariodecontacto .Frame1 .list .row_1 .Selection .chipgroup .chip_2 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 168px;
+	height: 36px;
+	display: flex;
+	flex-direction: column;
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-bottom: 8px;
+	padding-left: 8px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(0,0,0,0.05);
+	border-radius: 6px;
+}
+.Formulariodecontacto_Formulariodecontacto .Frame1 .list .row_1 .Selection .chipgroup .chip_2 .text_4 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 152px;
+	height: 20px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 20px;
+}
+.Formulariodecontacto_Formulariodecontacto .Frame1 .list .row_1 .Selection .info_2 {
+	position: relative;
+	flex: none;
+	margin-bottom: 4px;
+	height: 16px;
+	align-self: stretch;
+	color: rgba(0,0,0,0.50);
+	font-family: Roboto;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 16px;
+}
+.Formulariodecontacto_Formulariodecontacto .Frame1 .list .row_1 .Input_2 {
+	position: relative;
+	flex: none;
+	margin-right: 80px;
+	width: 510px;
+	height: 80px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	justify-content: center;
+}
+.Formulariodecontacto_Formulariodecontacto .Frame1 .list .row_1 .Input_2 .title_3 {
+	position: relative;
+	flex: none;
+	margin-bottom: 4px;
+	height: 20px;
+	align-self: stretch;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 24px;
+	font-weight: 500;
+	line-height: 20px;
+}
+.Formulariodecontacto_Formulariodecontacto .Frame1 .list .row_1 .Input_2 .textfield_2 {
+	position: relative;
+	flex: none;
+	margin-bottom: 4px;
+	height: 36px;
+	align-self: stretch;
+	display: flex;
+	padding-top: 8px;
+	padding-right: 12px;
+	padding-bottom: 8px;
+	padding-left: 12px;
+	box-sizing: border-box;
+	align-items: center;
+	background: rgba(255,255,255,0.60);
+	border-radius: 6px;
+	border: 1px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+}
+.Formulariodecontacto_Formulariodecontacto .Frame1 .list .row_1 .Input_2 .textfield_2 .text_5 {
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 486px;
+	height: 20px;
+	color: rgba(0,0,0,0.50);
+	font-family: Roboto;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 20px;
+}
+.Formulariodecontacto_Formulariodecontacto .Frame1 .list .row_1 .Input_2 .info_3 {
+	position: relative;
+	flex: none;
+	margin-bottom: 4px;
+	height: 16px;
+	align-self: stretch;
+	color: rgba(0,0,0,0.50);
+	font-family: Roboto;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 16px;
+}
+.Formulariodecontacto_Formulariodecontacto .Frame1 .list .row_2 {
+	position: relative;
+	flex: none;
+	margin-bottom: 40px;
+	height: 73px;
+	align-self: stretch;
+	display: flex;
+	box-sizing: border-box;
+}
+.Formulariodecontacto_Formulariodecontacto .Frame1 .list .row_2 .Input_3 {
+	position: relative;
+	flex: none;
+	margin-right: 80px;
+	width: 712px;
+	height: 73px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	justify-content: center;
+}
+.Formulariodecontacto_Formulariodecontacto .Frame1 .list .row_2 .Input_3 .text_6 {
+	position: relative;
+	flex: none;
+	margin-bottom: 4px;
+	width: 1100px;
+	height: 20px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 20px;
+}
+.Formulariodecontacto_Formulariodecontacto .Frame1 .list .row_2 .Input_3 .info_4 {
+	position: relative;
+	flex: none;
+	margin-bottom: 4px;
+	height: 32px;
+	align-self: stretch;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 16px;
+}
+.Formulariodecontacto_Formulariodecontacto .Frame1 .list .row_2 .Input_3 .Frame427318907 {
+	position: relative;
+	flex: none;
+	margin-bottom: 4px;
+	width: 24px;
+	height: 13px;
+}
+.Formulariodecontacto_Formulariodecontacto .Frame1 .Button {
+	position: absolute;
+	left: 326px;
+	top: 490px;
+	width: 744px;
+	height: 48px;
+	display: flex;
+	box-sizing: border-box;
+}
+.Formulariodecontacto_Formulariodecontacto .Frame1 .Button .seconday {
+	position: relative;
+	flex: none;
+	margin-right: 12px;
+	width: 240px;
+	height: 48px;
+	display: flex;
+	flex-direction: column;
+	padding-top: 12px;
+	padding-right: 12px;
+	padding-bottom: 12px;
+	padding-left: 12px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(237,239,237,1.00);
+	border-radius: 8px;
+	border: 1px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+}
+.Formulariodecontacto_Formulariodecontacto .Frame1 .Button .seconday .title_4 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 120px;
+	height: 24px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 24px;
+}
+.Formulariodecontacto_Formulariodecontacto .Frame1 .Button .seconday_1 {
+	position: relative;
+	flex: none;
+	margin-right: 12px;
+	width: 240px;
+	height: 48px;
+	display: flex;
+	flex-direction: column;
+	padding-top: 12px;
+	padding-right: 12px;
+	padding-bottom: 12px;
+	padding-left: 12px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	border-radius: 8px;
+	border: 1px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+}
+.Formulariodecontacto_Formulariodecontacto .Frame1 .Button .seconday_1 .title_5 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 55px;
+	height: 24px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 24px;
+}
+.Formulariodecontacto_Formulariodecontacto .Frame1 .Button .primary {
+	position: relative;
+	flex: none;
+	margin-right: 12px;
+	width: 240px;
+	height: 48px;
+	display: flex;
+	flex-direction: column;
+	padding-top: 12px;
+	padding-right: 12px;
+	padding-bottom: 12px;
+	padding-left: 12px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(0,0,0,1.00);
+	border-radius: 8px;
+}
+.Formulariodecontacto_Formulariodecontacto .Frame1 .Button .primary .title_6 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 45px;
+	height: 24px;
+	color: rgba(255,255,255,0.60);
+	font-family: Roboto;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 24px;
+}
+.Formulariodecontacto_Formulariodecontacto .Frame1 .textfield_3 {
+	position: absolute;
+	left: 130px;
+	top: 415px;
+	width: 25px;
+	height: 16px;
+	display: flex;
+	padding-top: 8px;
+	padding-right: 12px;
+	padding-bottom: 8px;
+	padding-left: 12px;
+	box-sizing: border-box;
+	align-items: center;
+	background: rgba(255,255,255,0.60);
+	border-radius: 6px;
+	border: 1px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+}
+.Formulariodecontacto_Formulariodecontacto .Rectangle75 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1440px;
+	height: 109px;
+}
+.Formulariodecontacto_Formulariodecontacto .image11 {
+	position: absolute;
+	left: 35px;
+	top: 5px;
+	width: 100px;
+	height: 100px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Formulariodecontacto_Formulariodecontacto .Rectangle82 {
+	position: absolute;
+	left: 320px;
+	top: 25px;
+	width: 155px;
+	height: 61px;
+	background: rgba(237,239,237,1.00);
+	border-radius: 15px;
+}
+.Formulariodecontacto_Formulariodecontacto .Inicio {
+	position: absolute;
+	left: 371px;
+	top: 42px;
+	width: 53px;
+	height: 25px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 22px;
+	font-weight: 400;
+	line-height: 25.78125px;
+}
+.Formulariodecontacto_Formulariodecontacto .Rectangle76 {
+	position: absolute;
+	left: 500px;
+	top: 24px;
+	width: 155px;
+	height: 61px;
+	background: rgba(237,239,237,1.00);
+	border-radius: 15px;
+}
+.Formulariodecontacto_Formulariodecontacto .Noticias {
+	position: absolute;
+	left: 536px;
+	top: 42px;
+	width: 82px;
+	height: 25px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 22px;
+	font-weight: 400;
+	line-height: 25.78125px;
+}
+.Formulariodecontacto_Formulariodecontacto .Rectangle78 {
+	position: absolute;
+	left: 680px;
+	top: 25px;
+	width: 155px;
+	height: 61px;
+	background: rgba(237,239,237,1.00);
+	border-radius: 15px;
+}
+.Formulariodecontacto_Formulariodecontacto .Proyectos {
+	position: absolute;
+	left: 708px;
+	top: 42px;
+	width: 104px;
+	height: 25px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 22px;
+	font-weight: 400;
+	line-height: 25.78125px;
+}
+.Formulariodecontacto_Formulariodecontacto .Rectangle79 {
+	position: absolute;
+	left: 860px;
+	top: 24px;
+	width: 155px;
+	height: 61px;
+	background: rgba(237,239,237,1.00);
+	border-radius: 15px;
+}
+.Formulariodecontacto_Formulariodecontacto .Software {
+	position: absolute;
+	left: 898px;
+	top: 42px;
+	width: 84px;
+	height: 26px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 22px;
+	font-weight: 400;
+	line-height: 25.78125px;
+}
+.Formulariodecontacto_Formulariodecontacto .Rectangle81 {
+	position: absolute;
+	left: 1220px;
+	top: 24px;
+	width: 155px;
+	height: 61px;
+	background: linear-gradient(180deg, rgba(204, 238, 233, 1.00) 0.0%, rgba(1, 99, 166, 1.00) 100.0%);
+	border-radius: 15px;
+}
+.Formulariodecontacto_Formulariodecontacto .Contacto {
+	position: absolute;
+	left: 1252px;
+	top: 42px;
+	width: 90px;
+	height: 25px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 22px;
+	font-weight: 400;
+	line-height: 25.78125px;
+}
+.Formulariodecontacto_Formulariodecontacto .Component1 {
+	position: absolute;
+	left: 1040px;
+	top: 24px;
+}
+.Formulariodecontacto_Formulariodecontacto .Component1 .Rectangle80 {
+}
+.Formulariodecontacto_Formulariodecontacto .Component1 .Nosotros {
+	font-weight: 400;
+}

@@ -1,0 +1,70 @@
+
+        const tryRequire = (path) => {
+        	try {
+        	const image = require(`${path}`);
+        	return image
+        	} catch (err) {
+        	return false
+        	}
+        };
+
+        export default {
+        
+	questionMark: require('./questionMark.png'),
+	PaginadeInicio_Fondo: tryRequire('./PaginadeInicio_Fondo.png') || require('./questionMark.png'),
+	Acercadeinvestigacion_Rectangle75: tryRequire('./Acercadeinvestigacion_Rectangle75.png') || require('./questionMark.png'),
+	miembrodeequipo_Rectangle75: tryRequire('./miembrodeequipo_Rectangle75.png') || require('./questionMark.png'),
+	miembrodeequipoantiguo_Rectangle75: tryRequire('./miembrodeequipoantiguo_Rectangle75.png') || require('./questionMark.png'),
+	Acercadeinvestigacion_image11: tryRequire('./Acercadeinvestigacion_image11.png') || require('./questionMark.png'),
+	AcercadeEquipo_image: tryRequire('./AcercadeEquipo_image.png') || require('./questionMark.png'),
+	PaginadeInicio_Imagenlab: tryRequire('./PaginadeInicio_Imagenlab.png') || require('./questionMark.png'),
+	Paginadenoticias_image: tryRequire('./Paginadenoticias_image.png') || require('./questionMark.png'),
+	PaginadeProyectos_instagramlogo: tryRequire('./PaginadeProyectos_instagramlogo.png') || require('./questionMark.png'),
+	AcercadeEquipo_image_1: tryRequire('./AcercadeEquipo_image_1.png') || require('./questionMark.png'),
+	Paginadenoticias_image_1: tryRequire('./Paginadenoticias_image_1.png') || require('./questionMark.png'),
+	PaginadeProyectos_logox: tryRequire('./PaginadeProyectos_logox.png') || require('./questionMark.png'),
+	AcercadeEquipo_image_2: tryRequire('./AcercadeEquipo_image_2.png') || require('./questionMark.png'),
+	Paginadenoticias_image_2: tryRequire('./Paginadenoticias_image_2.png') || require('./questionMark.png'),
+	PaginadeProyectos_facebook: tryRequire('./PaginadeProyectos_facebook.png') || require('./questionMark.png'),
+	PaginadeInicio_image1: tryRequire('./PaginadeInicio_image1.png') || require('./questionMark.png'),
+	Herramientasysoftware_image31: tryRequire('./Herramientasysoftware_image31.png') || require('./questionMark.png'),
+	Herramientasysoftware_image32: tryRequire('./Herramientasysoftware_image32.png') || require('./questionMark.png'),
+	PaginadeProyectosProyecto_WhatsAppImage20240901at1738232: tryRequire('./PaginadeProyectosProyecto_WhatsAppImage20240901at1738232.png') || require('./questionMark.png'),
+	PaginadeProyectosProyecto_image17: tryRequire('./PaginadeProyectosProyecto_image17.png') || require('./questionMark.png'),
+	Formulariomandadoconexito_Rectangle75: tryRequire('./Formulariomandadoconexito_Rectangle75.png') || require('./questionMark.png'),
+	Paginadenoticias_image9: tryRequire('./Paginadenoticias_image9.png') || require('./questionMark.png'),
+	terminosdeuso_Rectangle75: tryRequire('./terminosdeuso_Rectangle75.png') || require('./questionMark.png'),
+	Herramientasysoftware_Rectangle75: tryRequire('./Herramientasysoftware_Rectangle75.png') || require('./questionMark.png'),
+	Paginadenoticias_image_3: tryRequire('./Paginadenoticias_image_3.png') || require('./questionMark.png'),
+	Paginadenoticias_image_4: tryRequire('./Paginadenoticias_image_4.png') || require('./questionMark.png'),
+	PaginadeProyectos_image27: tryRequire('./PaginadeProyectos_image27.png') || require('./questionMark.png'),
+	PaginadeProyectosProyecto_image28: tryRequire('./PaginadeProyectosProyecto_image28.png') || require('./questionMark.png'),
+	PaginadeInicio_Rectangle79_3: tryRequire('./PaginadeInicio_Rectangle79_3.png') || require('./questionMark.png'),
+	PaginadenoticiasNoticia_Rectangle75: tryRequire('./PaginadenoticiasNoticia_Rectangle75.png') || require('./questionMark.png'),
+	PaginadeInicio_image24: tryRequire('./PaginadeInicio_image24.png') || require('./questionMark.png'),
+	PaginadeInicio_twitter5336271_12801: tryRequire('./PaginadeInicio_twitter5336271_12801.png') || require('./questionMark.png'),
+	AcercadeNosotros_LabItems: tryRequire('./AcercadeNosotros_LabItems.png') || require('./questionMark.png'),
+	AcercadeNosotros_Effort: tryRequire('./AcercadeNosotros_Effort.png') || require('./questionMark.png'),
+	AcercadeNosotros_Today: tryRequire('./AcercadeNosotros_Today.png') || require('./questionMark.png'),
+	PaginadeInicio_image25: tryRequire('./PaginadeInicio_image25.png') || require('./questionMark.png'),
+	PaginadeProyectosProyecto_Rectangle75: tryRequire('./PaginadeProyectosProyecto_Rectangle75.png') || require('./questionMark.png'),
+	AcercadeNosotros_DownArrow: tryRequire('./AcercadeNosotros_DownArrow.png') || require('./questionMark.png'),
+	AcercadeEquipo_image_3: tryRequire('./AcercadeEquipo_image_3.png') || require('./questionMark.png'),
+	PaginadeInicio_image: tryRequire('./PaginadeInicio_image.png') || require('./questionMark.png'),
+	Acercadeinvestigacion_imagen11: tryRequire('./Acercadeinvestigacion_imagen11.png') || require('./questionMark.png'),
+	Paginadenoticias_Rectangle75: tryRequire('./Paginadenoticias_Rectangle75.png') || require('./questionMark.png'),
+	AcercadeNosotros_image5: tryRequire('./AcercadeNosotros_image5.png') || require('./questionMark.png'),
+	Acercadeinvestigacion_imagen21: tryRequire('./Acercadeinvestigacion_imagen21.png') || require('./questionMark.png'),
+	Acercadeinvestigacion_imagen31: tryRequire('./Acercadeinvestigacion_imagen31.png') || require('./questionMark.png'),
+	AcercadeEquipo_image18: tryRequire('./AcercadeEquipo_image18.png') || require('./questionMark.png'),
+	Acercadeinvestigacion_imagen41: tryRequire('./Acercadeinvestigacion_imagen41.png') || require('./questionMark.png'),
+	AcercadeNosotros_Rectangle75: tryRequire('./AcercadeNosotros_Rectangle75.png') || require('./questionMark.png'),
+	AcercadeEquipo_Rectangle75: tryRequire('./AcercadeEquipo_Rectangle75.png') || require('./questionMark.png'),
+	PaginadeProyectos_image34: tryRequire('./PaginadeProyectos_image34.png') || require('./questionMark.png'),
+	PaginadeProyectos_image35: tryRequire('./PaginadeProyectos_image35.png') || require('./questionMark.png'),
+	PaginadeProyectos_image36: tryRequire('./PaginadeProyectos_image36.png') || require('./questionMark.png'),
+	PaginadeProyectos_Rectangle75: tryRequire('./PaginadeProyectos_Rectangle75.png') || require('./questionMark.png'),
+	Formulariodecontacto_Rectangle75: tryRequire('./Formulariodecontacto_Rectangle75.png') || require('./questionMark.png'),
+	PaginadeInicio_image33: tryRequire('./PaginadeInicio_image33.png') || require('./questionMark.png'),
+	PaginadeInicio_Rectangle75: tryRequire('./PaginadeInicio_Rectangle75.png') || require('./questionMark.png'),
+}

@@ -1,0 +1,547 @@
+
+.Paginadenoticias_Paginadenoticias {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(255,255,255,1.00);
+}
+.Paginadenoticias_Paginadenoticias .Fondo {
+	position: absolute;
+	left: -2px;
+	top: 0px;
+	width: 1442px;
+	height: 811px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Paginadenoticias_Paginadenoticias .Frame1 {
+	position: absolute;
+	left: 50.061725854029916%;
+	top: 150px;
+	transform: translate(-50%, 0);
+	width: 1326px;
+	height: 660px;
+}
+.Paginadenoticias_Paginadenoticias .Frame1 .Rectangle2 {
+	position: absolute;
+	left: 50%;
+	top: 0px;
+	transform: translate(-50%, 0);
+	width: 1326px;
+	height: 1996px;
+	background: rgba(254,254,254,0.86);
+	border-radius: 20px;
+}
+.Paginadenoticias_Paginadenoticias .Frame1 .Nuestrasnoticasmsimportantes {
+	position: absolute;
+	left: 50%;
+	top: 762px;
+	transform: translate(-50%, 0);
+	width: 1224px;
+	height: 86px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 40px;
+	font-weight: 300;
+	line-height: 46.875px;
+}
+.Paginadenoticias_Paginadenoticias .Frame1 .AvanceenIAMdicaNuevoalgoritmomejoralaprecisindiagnsticaenun25usandoimgenesmdicas {
+	position: absolute;
+	left: 64.85671191553544%;
+	top: 1477px;
+	transform: translate(-50%, 0);
+	width: 766px;
+	height: 58px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 25px;
+	font-weight: 300;
+	line-height: 29.296875px;
+}
+.Paginadenoticias_Paginadenoticias .Frame1 .DescubrimientoArqueolgicoEncuentranantiguoasentamientoenAsiaCentralrevelandonuevasrutascomerciales {
+	position: absolute;
+	left: 64.5550527903469%;
+	top: 1659px;
+	transform: translate(-50%, 0);
+	width: 766px;
+	height: 58px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 25px;
+	font-weight: 300;
+	line-height: 29.296875px;
+}
+.Paginadenoticias_Paginadenoticias .Frame1 .CaminElctricoInnovadorStartuplanzacaminelctricoconautonomade500kilmetrosporcarga {
+	position: absolute;
+	left: 64.5550527903469%;
+	top: 1860px;
+	transform: translate(-50%, 0);
+	width: 766px;
+	height: 58px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 25px;
+	font-weight: 300;
+	line-height: 29.296875px;
+}
+.Paginadenoticias_Paginadenoticias .Frame1 .image {
+	position: absolute;
+	left: 112px;
+	top: 1582px;
+	width: 274px;
+	height: 135px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 10px;
+	border: 1px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+}
+.Paginadenoticias_Paginadenoticias .Frame1 .image_1 {
+	position: absolute;
+	left: 112px;
+	top: 1783px;
+	width: 274px;
+	height: 135px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 10px;
+	border: 1px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+}
+.Paginadenoticias_Paginadenoticias .Frame1 .image_2 {
+	position: absolute;
+	left: 112px;
+	top: 1401px;
+	width: 274px;
+	height: 135px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 10px;
+}
+.Paginadenoticias_Paginadenoticias .Frame1 .Nuevavacunamuestraresultadosprometedoresenensayosclnicosparatratarciertostiposdecncer {
+	position: absolute;
+	left: 65.91251885369532%;
+	top: 895px;
+	transform: translate(-50%, 0);
+	width: 766px;
+	height: 78px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 25px;
+	font-weight: 300;
+	line-height: 29.296875px;
+}
+.Paginadenoticias_Paginadenoticias .Frame1 .NUEVAVACUNAJulio2024 {
+	position: absolute;
+	left: 487px;
+	top: 846px;
+	width: 737px;
+	height: 81px;
+	color: rgba(0,0,0,1.00);
+	font-family: Slabo 27px;
+	font-size: 28px;
+	font-weight: 400;
+	line-height: 34.22222137451172px;
+}
+.Paginadenoticias_Paginadenoticias .Frame1 .image30 {
+	position: absolute;
+	left: 272px;
+	top: 846px;
+	width: 332px;
+	height: 176px;
+	border-radius: 10px;
+}
+.Paginadenoticias_Paginadenoticias .Frame1 .Organizacinambientalistadesarrollaunatecnologaquepuedereducirelplsticoenelocanoenun40 {
+	position: absolute;
+	left: 64.85671191553544%;
+	top: 1109px;
+	transform: translate(-50%, 0);
+	width: 766px;
+	height: 57px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 25px;
+	font-weight: 300;
+	line-height: 29.296875px;
+}
+.Paginadenoticias_Paginadenoticias .Frame1 .ORGANIZACINAMBIENTALISTAEnero2023 {
+	position: absolute;
+	left: 477px;
+	top: 1022px;
+	width: 657px;
+	height: 50px;
+	color: rgba(0,0,0,1.00);
+	font-family: Slabo 27px;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 24.44444465637207px;
+}
+.Paginadenoticias_Paginadenoticias .Frame1 .SelanzaunproyectorealizadoporestudiantesdebioingenieradelauniversidadOHiggins {
+	position: absolute;
+	left: 64.85671191553544%;
+	top: 1298px;
+	transform: translate(-50%, 0);
+	width: 766px;
+	height: 58px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 25px;
+	font-weight: 300;
+	line-height: 29.296875px;
+}
+.Paginadenoticias_Paginadenoticias .Frame1 .ESTUDIANTESDEBIOINGENIERAAbril2022 {
+	position: absolute;
+	left: 477px;
+	top: 1216px;
+	width: 551px;
+	height: 50px;
+	color: rgba(0,0,0,1.00);
+	font-family: Slabo 27px;
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 29.333332061767578px;
+}
+.Paginadenoticias_Paginadenoticias .Frame1 .AVANCEENIAMarzo2022 {
+	position: absolute;
+	left: 477px;
+	top: 1392px;
+	width: 551px;
+	height: 50px;
+	color: rgba(0,0,0,1.00);
+	font-family: Slabo 27px;
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 29.333332061767578px;
+}
+.Paginadenoticias_Paginadenoticias .Frame1 .DESCUBRIMIENTOARQUEOLGICOFebrero2022 {
+	position: absolute;
+	left: 473px;
+	top: 1577px;
+	width: 551px;
+	height: 50px;
+	color: rgba(0,0,0,1.00);
+	font-family: Slabo 27px;
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 29.333332061767578px;
+}
+.Paginadenoticias_Paginadenoticias .Frame1 .CAMINELECTRICOEnero2022 {
+	position: absolute;
+	left: 473px;
+	top: 1778px;
+	width: 551px;
+	height: 50px;
+	color: rgba(0,0,0,1.00);
+	font-family: Slabo 27px;
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 29.333332061767578px;
+}
+.Paginadenoticias_Paginadenoticias .Frame1 .image9 {
+	position: absolute;
+	left: 116px;
+	top: 1221px;
+	width: 274px;
+	height: 135px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 10px;
+}
+.Paginadenoticias_Paginadenoticias .Frame1 .image_3 {
+	position: absolute;
+	left: 116px;
+	top: 1030px;
+	width: 271px;
+	height: 148px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 10px;
+}
+.Paginadenoticias_Paginadenoticias .Frame1 .image_4 {
+	position: absolute;
+	left: 116px;
+	top: 861px;
+	width: 270px;
+	height: 129px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 10px;
+}
+.Paginadenoticias_Paginadenoticias .Frame1 .ElCentrodeInnovacinTecnolgicaMarcaunHitoconAvancesSignificativosenlaOptimizacindeRedes {
+	position: absolute;
+	left: 50.15082956259427%;
+	top: 50px;
+	transform: translate(-50%, 0);
+	width: 1294px;
+	height: 112px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 48px;
+	font-weight: 300;
+	line-height: 56.25px;
+}
+.Paginadenoticias_Paginadenoticias .Frame1 .image5 {
+	position: absolute;
+	left: 51.696832579185525%;
+	top: 194px;
+	transform: translate(-50%, 0);
+	width: 761px;
+	height: 390px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Paginadenoticias_Paginadenoticias .Frame1 .Rectangle79 {
+	position: absolute;
+	left: 608px;
+	top: 616px;
+	width: 155px;
+	height: 47px;
+	background: rgba(232,238,240,1.00);
+	border-radius: 15px;
+}
+.Paginadenoticias_Paginadenoticias .Frame1 .Verms {
+	position: absolute;
+	left: 633px;
+	top: 626px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 24px;
+	font-weight: 500;
+	line-height: 28.125px;
+}
+.Paginadenoticias_Paginadenoticias .Frame1 .Rectangle93 {
+	position: absolute;
+	left: 0px;
+	top: 2099px;
+	width: 1326px;
+	height: 218px;
+	background: rgba(254,254,254,0.86);
+}
+.Paginadenoticias_Paginadenoticias .Frame1 .image13 {
+	position: absolute;
+	left: 18px;
+	top: 2158px;
+	width: 100px;
+	height: 101px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Paginadenoticias_Paginadenoticias .Frame1 .Somosunequipodeinvestigacinqueconpasinycolaboracintransformaideasenrealidadyconstruyeelfuturo {
+	position: absolute;
+	left: 49.96229260935144%;
+	top: 2118px;
+	transform: translate(-50%, 0);
+	width: 921px;
+	height: 109px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 25px;
+	font-weight: 400;
+	line-height: 29.296875px;
+}
+.Paginadenoticias_Paginadenoticias .Frame1 .Copyright20182024 {
+	position: absolute;
+	left: 50.03770739064856%;
+	top: 2281px;
+	transform: translate(-50%, 0);
+	width: 435px;
+	height: 36px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 25px;
+	font-weight: 600;
+	line-height: 29.296875px;
+}
+.Paginadenoticias_Paginadenoticias .Frame1 .instagramlogo {
+	position: absolute;
+	left: 50%;
+	top: 2202px;
+	transform: translate(-50%, 0);
+	width: 50px;
+	height: 50px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Paginadenoticias_Paginadenoticias .Frame1 .logox {
+	position: absolute;
+	left: 750px;
+	top: 2202px;
+	width: 50px;
+	height: 50px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Paginadenoticias_Paginadenoticias .Frame1 .facebook {
+	position: absolute;
+	left: 526px;
+	top: 2202px;
+	width: 50px;
+	height: 50px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Paginadenoticias_Paginadenoticias .Rectangle75 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1440px;
+	height: 109px;
+}
+.Paginadenoticias_Paginadenoticias .image11 {
+	position: absolute;
+	left: 35px;
+	top: 5px;
+	width: 100px;
+	height: 100px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Paginadenoticias_Paginadenoticias .Rectangle82 {
+	position: absolute;
+	left: 320px;
+	top: 25px;
+	width: 155px;
+	height: 61px;
+	background: rgba(237,239,237,1.00);
+	border-radius: 15px;
+}
+.Paginadenoticias_Paginadenoticias .Inicio {
+	position: absolute;
+	left: 371px;
+	top: 42px;
+	width: 53px;
+	height: 25px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 22px;
+	font-weight: 400;
+	line-height: 25.78125px;
+}
+.Paginadenoticias_Paginadenoticias .Rectangle76 {
+	position: absolute;
+	left: 500px;
+	top: 24px;
+	width: 155px;
+	height: 61px;
+	background: linear-gradient(180deg, rgba(204, 238, 233, 1.00) 0.0%, rgba(1, 99, 166, 1.00) 100.0%);
+	border-radius: 15px;
+}
+.Paginadenoticias_Paginadenoticias .Noticias {
+	position: absolute;
+	left: 536px;
+	top: 42px;
+	width: 82px;
+	height: 25px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 22px;
+	font-weight: 400;
+	line-height: 25.78125px;
+}
+.Paginadenoticias_Paginadenoticias .Rectangle78 {
+	position: absolute;
+	left: 680px;
+	top: 25px;
+	width: 155px;
+	height: 61px;
+	background: rgba(237,239,237,1.00);
+	border-radius: 15px;
+}
+.Paginadenoticias_Paginadenoticias .Proyectos {
+	position: absolute;
+	left: 708px;
+	top: 42px;
+	width: 104px;
+	height: 25px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 22px;
+	font-weight: 400;
+	line-height: 25.78125px;
+}
+.Paginadenoticias_Paginadenoticias .Rectangle79_1 {
+	position: absolute;
+	left: 860px;
+	top: 24px;
+	width: 155px;
+	height: 61px;
+	background: rgba(237,239,237,1.00);
+	border-radius: 15px;
+}
+.Paginadenoticias_Paginadenoticias .Software {
+	position: absolute;
+	left: 898px;
+	top: 42px;
+	width: 84px;
+	height: 26px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 22px;
+	font-weight: 400;
+	line-height: 25.78125px;
+}
+.Paginadenoticias_Paginadenoticias .Rectangle81 {
+	position: absolute;
+	left: 1220px;
+	top: 24px;
+	width: 155px;
+	height: 61px;
+	background: rgba(237,239,237,1.00);
+	border-radius: 15px;
+}
+.Paginadenoticias_Paginadenoticias .Contacto {
+	position: absolute;
+	left: 1252px;
+	top: 42px;
+	width: 90px;
+	height: 25px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 22px;
+	font-weight: 400;
+	line-height: 25.78125px;
+}
+.Paginadenoticias_Paginadenoticias .Component1 {
+	position: absolute;
+	left: 1040px;
+	top: 24px;
+}
+.Paginadenoticias_Paginadenoticias .Component1 .Rectangle80 {
+}
+.Paginadenoticias_Paginadenoticias .Component1 .Nosotros {
+	font-weight: 400;
+}

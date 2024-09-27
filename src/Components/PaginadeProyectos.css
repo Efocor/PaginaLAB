@@ -1,0 +1,684 @@
+
+.PaginadeProyectos_PaginadeProyectos {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(255,255,255,1.00);
+}
+.PaginadeProyectos_PaginadeProyectos .Fondo {
+	position: absolute;
+	left: -2px;
+	top: 0px;
+	width: 1442px;
+	height: 810px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.PaginadeProyectos_PaginadeProyectos .Frame2 {
+	position: absolute;
+	left: 50%;
+	top: 150px;
+	transform: translate(-50%, 0);
+	width: 1326px;
+	height: 716px;
+}
+.PaginadeProyectos_PaginadeProyectos .Frame2 .Rectangle2 {
+	position: absolute;
+	left: 50%;
+	top: 0px;
+	transform: translate(-50%, 0);
+	width: 1326px;
+	height: 1315px;
+	background: rgba(254,254,254,0.86);
+	border-radius: 20px;
+}
+.PaginadeProyectos_PaginadeProyectos .Frame2 .Rectangle93 {
+	position: absolute;
+	left: 0px;
+	top: 1421px;
+	width: 1326px;
+	height: 217px;
+	background: rgba(254,254,254,0.86);
+}
+.PaginadeProyectos_PaginadeProyectos .Frame2 .image13 {
+	position: absolute;
+	left: 18px;
+	top: 1480px;
+	width: 100px;
+	height: 100px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.PaginadeProyectos_PaginadeProyectos .Frame2 .Somosunequipodeinvestigacinqueconpasinycolaboracintransformaideasenrealidadyconstruyeelfuturo {
+	position: absolute;
+	left: 49.96229260935144%;
+	top: 1440px;
+	transform: translate(-50%, 0);
+	width: 921px;
+	height: 108px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 25px;
+	font-weight: 400;
+	line-height: 29.296875px;
+}
+.PaginadeProyectos_PaginadeProyectos .Frame2 .Copyright20182024 {
+	position: absolute;
+	left: 50.03770739064856%;
+	top: 1602px;
+	transform: translate(-50%, 0);
+	width: 435px;
+	height: 36px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 25px;
+	font-weight: 600;
+	line-height: 29.296875px;
+}
+.PaginadeProyectos_PaginadeProyectos .Frame2 .instagramlogo {
+	position: absolute;
+	left: 50%;
+	top: 1523px;
+	transform: translate(-50%, 0);
+	width: 50px;
+	height: 50px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.PaginadeProyectos_PaginadeProyectos .Frame2 .logox {
+	position: absolute;
+	left: 750px;
+	top: 1523px;
+	width: 50px;
+	height: 50px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.PaginadeProyectos_PaginadeProyectos .Frame2 .facebook {
+	position: absolute;
+	left: 526px;
+	top: 1523px;
+	width: 50px;
+	height: 50px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.PaginadeProyectos_PaginadeProyectos .Frame2 ._1 {
+	position: absolute;
+	left: -316px;
+	top: 1815px;
+	width: 13px;
+	height: 36px;
+	color: rgba(55,0,255,1.00);
+	border: 1px solid rgba(0,0,0,1);
+	font-family: Gowun Batang;
+	font-size: 25px;
+	font-weight: 700;
+	line-height: 36.19999694824219px;
+}
+.PaginadeProyectos_PaginadeProyectos .Frame2 ._2 {
+	position: absolute;
+	left: -275px;
+	top: 1815px;
+	width: 14px;
+	height: 36px;
+	color: rgba(0,0,0,1.00);
+	font-family: Gowun Batang;
+	font-size: 25px;
+	font-weight: 700;
+	line-height: 36.19999694824219px;
+}
+.PaginadeProyectos_PaginadeProyectos .Frame2 .Next {
+	position: absolute;
+	left: -233px;
+	top: 1815px;
+	width: 73px;
+	height: 36px;
+	color: rgba(0,0,0,1.00);
+	font-family: Gowun Batang;
+	font-size: 25px;
+	font-weight: 700;
+	line-height: 36.19999694824219px;
+}
+.PaginadeProyectos_PaginadeProyectos .Frame2 .Diseodemicrobiosgenticamentemodificadosquepuedendescomponerplsticosnobiodegradablesensubproductosinofensivos {
+	position: absolute;
+	left: 21.568627450980394%;
+	top: 501px;
+	transform: translate(-50%, 0);
+	width: 286px;
+	height: 134px;
+	color: rgba(70,69,69,1.00);
+	font-family: Roboto;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 23.4375px;
+}
+.PaginadeProyectos_PaginadeProyectos .Frame2 .Rectangle139 {
+	position: absolute;
+	left: 119px;
+	top: 128px;
+	width: 313px;
+	height: 532px;
+	background: rgba(217,217,217,0.00);
+	border-radius: 10px;
+	border: 1px solid rgba(111.56248480081558,108.95937368273735,108.95937368273735,1);
+	box-sizing: border-box;
+}
+.PaginadeProyectos_PaginadeProyectos .Frame2 .DesarrollodedispositivosporttilesqueutilizantecnologadesecuenciacinrpidadeADNparaladeteccindeenfermedadesentiemporeal {
+	position: absolute;
+	left: 80.1659125188537%;
+	top: 510px;
+	transform: translate(-50%, 0);
+	width: 278px;
+	height: 119px;
+	color: rgba(85,81,81,1.00);
+	font-family: Roboto;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 23.4375px;
+}
+.PaginadeProyectos_PaginadeProyectos .Frame2 .Rectangle140 {
+	position: absolute;
+	left: 903px;
+	top: 124px;
+	width: 313px;
+	height: 532px;
+	background: rgba(217,217,217,0.00);
+	border-radius: 10px;
+	border: 1px solid rgba(111.56248480081558,108.95937368273735,108.95937368273735,1);
+	box-sizing: border-box;
+}
+.PaginadeProyectos_PaginadeProyectos .Frame2 .SistemasdeDiagnsticoPorttilesBasadosenADNAbril2022 {
+	position: absolute;
+	left: 924px;
+	top: 390px;
+	width: 265px;
+	height: 87px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Slabo 27px;
+	font-size: 22px;
+	font-weight: 400;
+	line-height: 29.333332061767578px;
+}
+.PaginadeProyectos_PaginadeProyectos .Frame2 .Rectangle142 {
+	position: absolute;
+	left: 119px;
+	top: 128px;
+	width: 313px;
+	height: 532px;
+	background: rgba(217,217,217,0.00);
+	border-radius: 10px;
+	border: 1px solid rgba(111.56248480081558,108.95937368273735,108.95937368273735,1);
+	box-sizing: border-box;
+}
+.PaginadeProyectos_PaginadeProyectos .Frame2 .Rectangle143 {
+	position: absolute;
+	left: 903px;
+	top: 124px;
+	width: 313px;
+	height: 532px;
+	background: rgba(217,217,217,0.00);
+	border-radius: 10px;
+	border: 1px solid rgba(111.56248480081558,108.95937368273735,108.95937368273735,1);
+	box-sizing: border-box;
+}
+.PaginadeProyectos_PaginadeProyectos .Frame2 .Nuestrosproyectos {
+	position: absolute;
+	left: 50.03770739064856%;
+	top: 24px;
+	transform: translate(-50%, 0);
+	width: 825px;
+	height: 56px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 48px;
+	font-weight: 400;
+	line-height: 56.25px;
+}
+.PaginadeProyectos_PaginadeProyectos .Frame2 .WhatsAppImage20240901at1738232 {
+	position: absolute;
+	left: 155px;
+	top: 138px;
+	width: 263px;
+	height: 216px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.PaginadeProyectos_PaginadeProyectos .Frame2 .image27 {
+	position: absolute;
+	left: 965px;
+	top: 154px;
+	width: 189px;
+	height: 200px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.PaginadeProyectos_PaginadeProyectos .Frame2 .MicrobiosSintticosparalaEliminacindePlsticosEnero2023 {
+	position: absolute;
+	left: 115px;
+	top: 391px;
+	width: 325px;
+	height: 87px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Slabo 27px;
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 29.333332061767578px;
+}
+.PaginadeProyectos_PaginadeProyectos .Frame2 .Elmodeladodecrecimientodeplantasseenfocaensimulareldesarrollodelasplantasbajodiversascondicionesambientalescomoluzaguaynutrientes {
+	position: absolute;
+	left: 51.16892911010558%;
+	top: 450px;
+	transform: translate(-50%, 0);
+	width: 295px;
+	height: 230px;
+	color: rgba(80,79,79,1.00);
+	font-family: Roboto;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 23.4375px;
+}
+.PaginadeProyectos_PaginadeProyectos .Frame2 .Rectangle138 {
+	position: absolute;
+	left: 510px;
+	top: 124px;
+	width: 313px;
+	height: 532px;
+	background: rgba(217,217,217,0.00);
+	border-radius: 10px;
+	border: 1px solid rgba(111.56248480081558,108.95937368273735,108.95937368273735,1);
+	box-sizing: border-box;
+}
+.PaginadeProyectos_PaginadeProyectos .Frame2 .Rectangle141 {
+	position: absolute;
+	left: 510px;
+	top: 124px;
+	width: 313px;
+	height: 532px;
+	background: rgba(217,217,217,0.00);
+	border-radius: 10px;
+	border: 1px solid rgba(111.56248480081558,108.95937368273735,108.95937368273735,1);
+	box-sizing: border-box;
+}
+.PaginadeProyectos_PaginadeProyectos .Frame2 .ModelodecrecimientodeplantasJulio2024 {
+	position: absolute;
+	left: 531px;
+	top: 350px;
+	width: 270px;
+	height: 62px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Slabo 27px;
+	font-size: 22px;
+	font-weight: 400;
+	line-height: 34.22222137451172px;
+}
+.PaginadeProyectos_PaginadeProyectos .Frame2 .image26 {
+	position: absolute;
+	left: 557px;
+	top: 154px;
+	width: 219px;
+	height: 176px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.PaginadeProyectos_PaginadeProyectos .Frame2 .Msproyectos {
+	position: absolute;
+	left: 50.641025641025635%;
+	top: 745px;
+	transform: translate(-50%, 0);
+	width: 825px;
+	height: 56px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 48px;
+	font-weight: 400;
+	line-height: 56.25px;
+}
+.PaginadeProyectos_PaginadeProyectos .Frame2 .SostenibleGranjasverticalesurbanasqueutilizanhidroponaparacultivaralimentosfrescos {
+	position: absolute;
+	left: 21.832579185520363%;
+	top: 1086px;
+	transform: translate(-50%, 0);
+	width: 287px;
+	height: 170px;
+	color: rgba(80,79,79,1.00);
+	font-family: Roboto;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 23.4375px;
+}
+.PaginadeProyectos_PaginadeProyectos .Frame2 .Rectangle138_1 {
+	position: absolute;
+	left: 126px;
+	top: 828px;
+	width: 305px;
+	height: 392px;
+	background: rgba(217,217,217,0.00);
+	border-radius: 10px;
+	border: 1px solid rgba(111.56248480081558,108.95937368273735,108.95937368273735,1);
+	box-sizing: border-box;
+}
+.PaginadeProyectos_PaginadeProyectos .Frame2 .UrbanasSistemaparamonitorearyreduciremisionescontaminantesenciudades {
+	position: absolute;
+	left: 50.829562594268474%;
+	top: 1103px;
+	transform: translate(-50%, 0);
+	width: 278px;
+	height: 99px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 20px;
+	font-weight: 300;
+	line-height: 23.4375px;
+}
+.PaginadeProyectos_PaginadeProyectos .Frame2 .Rectangle139_1 {
+	position: absolute;
+	left: 511px;
+	top: 828px;
+	width: 304px;
+	height: 392px;
+	background: rgba(217,217,217,0.00);
+	border-radius: 10px;
+	border: 1px solid rgba(111.56248480081558,108.95937368273735,108.95937368273735,1);
+	box-sizing: border-box;
+}
+.PaginadeProyectos_PaginadeProyectos .Frame2 .Herramientaparaconsultasvirtualesyseguimientomdicoenlnea {
+	position: absolute;
+	left: 79.29864253393664%;
+	top: 1103px;
+	transform: translate(-50%, 0);
+	width: 269px;
+	height: 87px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 20px;
+	font-weight: 300;
+	line-height: 23.4375px;
+}
+.PaginadeProyectos_PaginadeProyectos .Frame2 .Rectangle140_1 {
+	position: absolute;
+	left: 895px;
+	top: 828px;
+	width: 305px;
+	height: 392px;
+	background: rgba(217,217,217,0.00);
+	border-radius: 10px;
+	border: 1px solid rgba(111.56248480081558,108.95937368273735,108.95937368273735,1);
+	box-sizing: border-box;
+}
+.PaginadeProyectos_PaginadeProyectos .Frame2 .PlataformadeTelemedicinaAbril2022 {
+	position: absolute;
+	left: 917px;
+	top: 1005px;
+	width: 256px;
+	height: 63px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Slabo 27px;
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 29.333332061767578px;
+}
+.PaginadeProyectos_PaginadeProyectos .Frame2 .Rectangle141_1 {
+	position: absolute;
+	left: 126px;
+	top: 828px;
+	width: 305px;
+	height: 392px;
+	background: rgba(217,217,217,0.00);
+	border-radius: 10px;
+	border: 1px solid rgba(111.56248480081558,108.95937368273735,108.95937368273735,1);
+	box-sizing: border-box;
+}
+.PaginadeProyectos_PaginadeProyectos .Frame2 .AgriculturaVerticalJulio2024 {
+	position: absolute;
+	left: 143px;
+	top: 1017px;
+	width: 268px;
+	height: 45px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Slabo 27px;
+	font-size: 28px;
+	font-weight: 400;
+	line-height: 34.22222137451172px;
+}
+.PaginadeProyectos_PaginadeProyectos .Frame2 .Rectangle142_1 {
+	position: absolute;
+	left: 511px;
+	top: 828px;
+	width: 304px;
+	height: 392px;
+	background: rgba(217,217,217,0.00);
+	border-radius: 10px;
+	border: 1px solid rgba(111.56248480081558,108.95937368273735,108.95937368273735,1);
+	box-sizing: border-box;
+}
+.PaginadeProyectos_PaginadeProyectos .Frame2 .ReduccindeemisionesEnero2023 {
+	position: absolute;
+	left: 500px;
+	top: 1014px;
+	width: 315px;
+	height: 65px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Slabo 27px;
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 29.333332061767578px;
+}
+.PaginadeProyectos_PaginadeProyectos .Frame2 .Rectangle143_1 {
+	position: absolute;
+	left: 895px;
+	top: 828px;
+	width: 305px;
+	height: 392px;
+	background: rgba(217,217,217,0.00);
+	border-radius: 10px;
+	border: 1px solid rgba(111.56248480081558,108.95937368273735,108.95937368273735,1);
+	box-sizing: border-box;
+}
+.PaginadeProyectos_PaginadeProyectos .Frame2 .image34 {
+	position: absolute;
+	left: 166px;
+	top: 850px;
+	width: 222px;
+	height: 132px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.PaginadeProyectos_PaginadeProyectos .Frame2 .image35 {
+	position: absolute;
+	left: 576px;
+	top: 853px;
+	width: 191px;
+	height: 145px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.PaginadeProyectos_PaginadeProyectos .Frame2 .image36 {
+	position: absolute;
+	left: 944px;
+	top: 850px;
+	width: 214px;
+	height: 145px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.PaginadeProyectos_PaginadeProyectos .Rectangle75 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1440px;
+	height: 109px;
+}
+.PaginadeProyectos_PaginadeProyectos .image11 {
+	position: absolute;
+	left: 35px;
+	top: 5px;
+	width: 100px;
+	height: 100px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.PaginadeProyectos_PaginadeProyectos .Rectangle82 {
+	position: absolute;
+	left: 320px;
+	top: 25px;
+	width: 155px;
+	height: 61px;
+	background: rgba(237,239,237,1.00);
+	border-radius: 15px;
+}
+.PaginadeProyectos_PaginadeProyectos .Inicio {
+	position: absolute;
+	left: 371px;
+	top: 42px;
+	width: 53px;
+	height: 25px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 22px;
+	font-weight: 400;
+	line-height: 25.78125px;
+}
+.PaginadeProyectos_PaginadeProyectos .Rectangle76 {
+	position: absolute;
+	left: 500px;
+	top: 24px;
+	width: 155px;
+	height: 61px;
+	background: rgba(237,239,237,1.00);
+	border-radius: 15px;
+}
+.PaginadeProyectos_PaginadeProyectos .Noticias {
+	position: absolute;
+	left: 536px;
+	top: 42px;
+	width: 82px;
+	height: 25px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 22px;
+	font-weight: 400;
+	line-height: 25.78125px;
+}
+.PaginadeProyectos_PaginadeProyectos .Rectangle78 {
+	position: absolute;
+	left: 680px;
+	top: 25px;
+	width: 155px;
+	height: 61px;
+	background: linear-gradient(180deg, rgba(204, 238, 233, 1.00) 0.0%, rgba(1, 99, 166, 1.00) 100.0%);
+	border-radius: 15px;
+}
+.PaginadeProyectos_PaginadeProyectos .Proyectos {
+	position: absolute;
+	left: 708px;
+	top: 42px;
+	width: 104px;
+	height: 25px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 22px;
+	font-weight: 400;
+	line-height: 25.78125px;
+}
+.PaginadeProyectos_PaginadeProyectos .Rectangle79 {
+	position: absolute;
+	left: 860px;
+	top: 24px;
+	width: 155px;
+	height: 61px;
+	background: rgba(237,239,237,1.00);
+	border-radius: 15px;
+}
+.PaginadeProyectos_PaginadeProyectos .Software {
+	position: absolute;
+	left: 898px;
+	top: 42px;
+	width: 84px;
+	height: 26px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 22px;
+	font-weight: 400;
+	line-height: 25.78125px;
+}
+.PaginadeProyectos_PaginadeProyectos .Rectangle81 {
+	position: absolute;
+	left: 1220px;
+	top: 24px;
+	width: 155px;
+	height: 61px;
+	background: rgba(237,239,237,1.00);
+	border-radius: 15px;
+}
+.PaginadeProyectos_PaginadeProyectos .Contacto {
+	position: absolute;
+	left: 1252px;
+	top: 42px;
+	width: 90px;
+	height: 25px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 22px;
+	font-weight: 400;
+	line-height: 25.78125px;
+}
+.PaginadeProyectos_PaginadeProyectos .Component1 {
+	position: absolute;
+	left: 1040px;
+	top: 24px;
+}
+.PaginadeProyectos_PaginadeProyectos .Component1 .Rectangle80 {
+}
+.PaginadeProyectos_PaginadeProyectos .Component1 .Nosotros {
+	font-weight: 400;
+}

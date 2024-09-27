@@ -1,0 +1,601 @@
+
+.AcercadeEquipo_AcercadeEquipo {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(255,255,255,1.00);
+}
+.AcercadeEquipo_AcercadeEquipo .Fondo {
+	position: absolute;
+	left: -2px;
+	top: 0px;
+	width: 1442px;
+	height: 810px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.AcercadeEquipo_AcercadeEquipo .Frame3 {
+	position: absolute;
+	left: 50%;
+	top: 150px;
+	transform: translate(-50%, 0);
+	width: 1326px;
+	height: 660px;
+}
+.AcercadeEquipo_AcercadeEquipo .Frame3 .Rectangle2 {
+	position: absolute;
+	left: 50%;
+	top: 0px;
+	transform: translate(-50%, 0);
+	width: 1326px;
+	height: 1418px;
+	background: rgba(254,254,254,0.86);
+	border-radius: 20px;
+}
+.AcercadeEquipo_AcercadeEquipo .Frame3 .DrAlejandroTorresEnero2019Junio2022InvestigadorPrincipalDesarrollodenuevastcnicasenprocesamientodeimgenesmdicasActualmentetrabajaenCentrodeDiagnsticoporImgenesAvanzadascomoDirectordeInnovacin {
+	position: absolute;
+	left: 55.203619909502265%;
+	top: 1007px;
+	transform: translate(-50%, 0);
+	width: 1040px;
+	height: 119px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 23px;
+	font-weight: 300;
+	line-height: 26.953125px;
+}
+.AcercadeEquipo_AcercadeEquipo .Frame3 .DraMarianaLpezFebrero2017Noviembre2021InvestigadoraSeniorInvestigacinenterapiasgenticasparaenfermedadesrarasActualmentetrabajaenInstitutodeTerapiasAvanzadascomoCoordinadoradeProyectos {
+	position: absolute;
+	left: 55.2790346907994%;
+	top: 865px;
+	transform: translate(-50%, 0);
+	width: 1040px;
+	height: 119px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 23px;
+	font-weight: 300;
+	line-height: 26.953125px;
+}
+.AcercadeEquipo_AcercadeEquipo .Frame3 .IngRicardoMoralesMayo2020Abril2023CoordinadordeProyectosImplementacindesistemasdeautomatizacinenfbricasActualmentetrabajaenAutomatechSolutionscomoEspecialistaenSistemasdeAutomatizacin {
+	position: absolute;
+	left: 55.12820512820513%;
+	top: 1147px;
+	transform: translate(-50%, 0);
+	width: 1040px;
+	height: 119px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 23px;
+	font-weight: 300;
+	line-height: 26.953125px;
+}
+.AcercadeEquipo_AcercadeEquipo .Frame3 .image {
+	position: absolute;
+	left: 76px;
+	top: 1009px;
+	width: 100px;
+	height: 100px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.AcercadeEquipo_AcercadeEquipo .Frame3 .image_1 {
+	position: absolute;
+	left: 77px;
+	top: 867px;
+	width: 100px;
+	height: 100px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.AcercadeEquipo_AcercadeEquipo .Frame3 .image_2 {
+	position: absolute;
+	left: 75px;
+	top: 1149px;
+	width: 100px;
+	height: 100px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.AcercadeEquipo_AcercadeEquipo .Frame3 .Rectangle93 {
+	position: absolute;
+	left: 0px;
+	top: 1344px;
+	width: 1326px;
+	height: 217px;
+	background: rgba(254,254,254,0.86);
+}
+.AcercadeEquipo_AcercadeEquipo .Frame3 .image13 {
+	position: absolute;
+	left: 18px;
+	top: 1403px;
+	width: 100px;
+	height: 100px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.AcercadeEquipo_AcercadeEquipo .Frame3 .Somosunequipodeinvestigacinqueconpasinycolaboracintransformaideasenrealidadyconstruyeelfuturo {
+	position: absolute;
+	left: 49.96229260935144%;
+	top: 1363px;
+	transform: translate(-50%, 0);
+	width: 921px;
+	height: 108px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 25px;
+	font-weight: 400;
+	line-height: 29.296875px;
+}
+.AcercadeEquipo_AcercadeEquipo .Frame3 .Copyright20182024 {
+	position: absolute;
+	left: 50.03770739064856%;
+	top: 1525px;
+	transform: translate(-50%, 0);
+	width: 435px;
+	height: 36px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 25px;
+	font-weight: 600;
+	line-height: 29.296875px;
+}
+.AcercadeEquipo_AcercadeEquipo .Frame3 .instagramlogo {
+	position: absolute;
+	left: 50%;
+	top: 1446px;
+	transform: translate(-50%, 0);
+	width: 50px;
+	height: 50px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.AcercadeEquipo_AcercadeEquipo .Frame3 .logox {
+	position: absolute;
+	left: 750px;
+	top: 1446px;
+	width: 50px;
+	height: 50px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.AcercadeEquipo_AcercadeEquipo .Frame3 .facebook {
+	position: absolute;
+	left: 526px;
+	top: 1446px;
+	width: 50px;
+	height: 50px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.AcercadeEquipo_AcercadeEquipo .Frame3 .NuestroEquipodeTrabajo {
+	position: absolute;
+	left: 50%;
+	top: 36px;
+	transform: translate(-50%, 0);
+	width: 652px;
+	height: 70px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	border: 1px solid rgba(0,0,0,1);
+	font-family: Roboto;
+	font-size: 60px;
+	font-weight: 300;
+	line-height: 70.3125px;
+}
+.AcercadeEquipo_AcercadeEquipo .Frame3 .AntiguosMiembrosdelEquipo {
+	position: absolute;
+	left: 49.321266968325794%;
+	top: 735px;
+	transform: translate(-50%, 0);
+	width: 754px;
+	height: 70px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	border: 1px solid rgba(0,0,0,1);
+	font-family: Roboto;
+	font-size: 60px;
+	font-weight: 300;
+	line-height: 70.3125px;
+}
+.AcercadeEquipo_AcercadeEquipo .Frame3 .Rectangle111 {
+	position: absolute;
+	left: 54px;
+	top: 152px;
+	width: 345px;
+	height: 456px;
+	background: rgba(217,217,217,0.00);
+	border-radius: 10px;
+	border: 1px solid rgba(111.56248480081558,108.95937368273735,108.95937368273735,1);
+	box-sizing: border-box;
+}
+.AcercadeEquipo_AcercadeEquipo .Frame3 .DraCarolMoraga {
+	position: absolute;
+	left: 79px;
+	top: 397px;
+	width: 307px;
+	height: 31px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(1,99,166,1.00);
+	font-family: Roboto;
+	font-size: 32px;
+	font-weight: 400;
+	line-height: 37.5px;
+}
+.AcercadeEquipo_AcercadeEquipo .Frame3 .DoctorenIngenieradeSistemasComplejosUniversidadAdolfoIbez {
+	position: absolute;
+	left: 50.37707390648567%;
+	top: 433px;
+	transform: translate(-50%, 0);
+	width: 316px;
+	height: 109px;
+	color: rgba(80,78,78,1.00);
+	font-family: Roboto;
+	font-size: 25px;
+	font-weight: 400;
+	line-height: 29.296875px;
+}
+.AcercadeEquipo_AcercadeEquipo .Frame3 .Rectangle112 {
+	position: absolute;
+	left: 491px;
+	top: 152px;
+	width: 344px;
+	height: 456px;
+	background: rgba(217,217,217,0.00);
+	border-radius: 10px;
+	border: 1px solid rgba(111.56248480081558,108.95937368273735,108.95937368273735,1);
+	box-sizing: border-box;
+}
+.AcercadeEquipo_AcercadeEquipo .Frame3 .DrAlexDiGenova {
+	position: absolute;
+	left: 483px;
+	top: 395px;
+	width: 358px;
+	height: 31px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(1,99,166,1.00);
+	font-family: Roboto;
+	font-size: 32px;
+	font-weight: 400;
+	line-height: 37.5px;
+}
+.AcercadeEquipo_AcercadeEquipo .Frame3 .InvestigadoraSeniorAnlisisdedatosgenmicosparabiomarcadoresneurodegenerativas {
+	position: absolute;
+	left: 83.97435897435898%;
+	top: 406px;
+	transform: translate(-50%, 0);
+	width: 307px;
+	height: 138px;
+	color: rgba(102,100,100,1.00);
+	font-family: Roboto;
+	font-size: 25px;
+	font-weight: 400;
+	line-height: 29.296875px;
+}
+.AcercadeEquipo_AcercadeEquipo .Frame3 .Rectangle113 {
+	position: absolute;
+	left: 927px;
+	top: 152px;
+	width: 345px;
+	height: 456px;
+	background: rgba(217,217,217,0.00);
+	border-radius: 10px;
+	border: 1px solid rgba(111.56248480081558,108.95937368273735,108.95937368273735,1);
+	box-sizing: border-box;
+}
+.AcercadeEquipo_AcercadeEquipo .Frame3 .DraAndreaMontalvo {
+	position: absolute;
+	left: 954px;
+	top: 400px;
+	width: 294px;
+	height: 28px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(1,99,166,1.00);
+	font-family: Roboto;
+	font-size: 32px;
+	font-weight: 400;
+	line-height: 37.5px;
+}
+.AcercadeEquipo_AcercadeEquipo .Frame3 .Rectangle120 {
+	position: absolute;
+	left: 961px;
+	top: 565px;
+	width: 275px;
+	height: 32px;
+	background: rgba(162,162,162,1.00);
+	border-radius: 10px;
+}
+.AcercadeEquipo_AcercadeEquipo .Frame3 .Verperfil {
+	position: absolute;
+	left: 1048px;
+	top: 567px;
+	width: 110px;
+	height: 28px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Slabo 27px;
+	font-size: 32px;
+	font-weight: 400;
+	line-height: 39.11111068725586px;
+}
+.AcercadeEquipo_AcercadeEquipo .Frame3 .Rectangle123 {
+	position: absolute;
+	left: 525px;
+	top: 567px;
+	width: 273px;
+	height: 33px;
+	background: rgba(162,162,162,1.00);
+	border-radius: 10px;
+}
+.AcercadeEquipo_AcercadeEquipo .Frame3 .Verperfil_1 {
+	position: absolute;
+	left: 610px;
+	top: 570px;
+	width: 110px;
+	height: 26px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Slabo 27px;
+	font-size: 32px;
+	font-weight: 400;
+	line-height: 39.11111068725586px;
+}
+.AcercadeEquipo_AcercadeEquipo .Frame3 .Rectangle121 {
+	position: absolute;
+	left: 86px;
+	top: 563px;
+	width: 272px;
+	height: 32px;
+	background: rgba(114,235,210,1.00);
+	border-radius: 10px;
+}
+.AcercadeEquipo_AcercadeEquipo .Frame3 .Cargarms {
+	position: absolute;
+	left: 153px;
+	top: 565px;
+	width: 139px;
+	height: 28px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Slabo 27px;
+	font-size: 32px;
+	font-weight: 400;
+	line-height: 39.11111068725586px;
+}
+.AcercadeEquipo_AcercadeEquipo .Frame3 .Rectangle122 {
+	position: absolute;
+	left: 86px;
+	top: 563px;
+	width: 272px;
+	height: 32px;
+	background: rgba(162,162,162,1.00);
+	border-radius: 10px;
+}
+.AcercadeEquipo_AcercadeEquipo .Frame3 .Verperfil_2 {
+	position: absolute;
+	left: 167px;
+	top: 565px;
+	width: 110px;
+	height: 28px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Slabo 27px;
+	font-size: 32px;
+	font-weight: 400;
+	line-height: 39.11111068725586px;
+}
+.AcercadeEquipo_AcercadeEquipo .Frame3 .image_3 {
+	position: absolute;
+	left: 958px;
+	top: 164px;
+	width: 293px;
+	height: 216px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.AcercadeEquipo_AcercadeEquipo .Frame3 .image17 {
+	position: absolute;
+	left: 77px;
+	top: 163px;
+	width: 297px;
+	height: 225px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.AcercadeEquipo_AcercadeEquipo .Frame3 .PhDinbioinformaticsUniversitClaudeBernardLyon1Francia {
+	position: absolute;
+	left: 17.911010558069382%;
+	top: 433px;
+	transform: translate(-50%, 0);
+	width: 289px;
+	height: 54px;
+	color: rgba(80,78,78,1.00);
+	font-family: Roboto;
+	font-size: 25px;
+	font-weight: 400;
+	line-height: 29.296875px;
+}
+.AcercadeEquipo_AcercadeEquipo .Frame3 .image18 {
+	position: absolute;
+	left: 527px;
+	top: 164px;
+	width: 279px;
+	height: 224px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.AcercadeEquipo_AcercadeEquipo .Rectangle75 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1440px;
+	height: 109px;
+}
+.AcercadeEquipo_AcercadeEquipo .image11 {
+	position: absolute;
+	left: 35px;
+	top: 5px;
+	width: 100px;
+	height: 100px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.AcercadeEquipo_AcercadeEquipo .Rectangle82 {
+	position: absolute;
+	left: 320px;
+	top: 25px;
+	width: 155px;
+	height: 61px;
+	background: rgba(237,239,237,1.00);
+	border-radius: 15px;
+}
+.AcercadeEquipo_AcercadeEquipo .Inicio {
+	position: absolute;
+	left: 371px;
+	top: 42px;
+	width: 53px;
+	height: 25px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 22px;
+	font-weight: 400;
+	line-height: 25.78125px;
+}
+.AcercadeEquipo_AcercadeEquipo .Rectangle76 {
+	position: absolute;
+	left: 500px;
+	top: 24px;
+	width: 155px;
+	height: 61px;
+	background: rgba(237,239,237,1.00);
+	border-radius: 15px;
+}
+.AcercadeEquipo_AcercadeEquipo .Noticias {
+	position: absolute;
+	left: 536px;
+	top: 42px;
+	width: 82px;
+	height: 25px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 22px;
+	font-weight: 400;
+	line-height: 25.78125px;
+}
+.AcercadeEquipo_AcercadeEquipo .Rectangle78 {
+	position: absolute;
+	left: 680px;
+	top: 25px;
+	width: 155px;
+	height: 61px;
+	background: rgba(237,239,237,1.00);
+	border-radius: 15px;
+}
+.AcercadeEquipo_AcercadeEquipo .Proyectos {
+	position: absolute;
+	left: 708px;
+	top: 42px;
+	width: 104px;
+	height: 25px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 22px;
+	font-weight: 400;
+	line-height: 25.78125px;
+}
+.AcercadeEquipo_AcercadeEquipo .Rectangle79 {
+	position: absolute;
+	left: 860px;
+	top: 24px;
+	width: 155px;
+	height: 61px;
+	background: rgba(237,239,237,1.00);
+	border-radius: 15px;
+}
+.AcercadeEquipo_AcercadeEquipo .Software {
+	position: absolute;
+	left: 898px;
+	top: 42px;
+	width: 84px;
+	height: 26px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 22px;
+	font-weight: 400;
+	line-height: 25.78125px;
+}
+.AcercadeEquipo_AcercadeEquipo .Rectangle81 {
+	position: absolute;
+	left: 1220px;
+	top: 24px;
+	width: 155px;
+	height: 61px;
+	background: rgba(237,239,237,1.00);
+	border-radius: 15px;
+}
+.AcercadeEquipo_AcercadeEquipo .Contacto {
+	position: absolute;
+	left: 1252px;
+	top: 42px;
+	width: 90px;
+	height: 25px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 22px;
+	font-weight: 400;
+	line-height: 25.78125px;
+}
+.AcercadeEquipo_AcercadeEquipo .Component2 {
+	position: absolute;
+	left: 1040px;
+	top: 24px;
+}
+.AcercadeEquipo_AcercadeEquipo .Component2 .Rectangle80 {
+}
+.AcercadeEquipo_AcercadeEquipo .Component2 .Nosotros {
+	font-weight: 400;
+}

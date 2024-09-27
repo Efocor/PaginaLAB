@@ -1,0 +1,594 @@
+
+.miembrodeequipo_miembrodeequipo {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(255,255,255,1.00);
+}
+.miembrodeequipo_miembrodeequipo .Fondo {
+	position: absolute;
+	left: -2px;
+	top: 0px;
+	width: 1442px;
+	height: 811px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.miembrodeequipo_miembrodeequipo .Rectangle75 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1440px;
+	height: 109px;
+}
+.miembrodeequipo_miembrodeequipo .image11 {
+	position: absolute;
+	left: 35px;
+	top: 5px;
+	width: 100px;
+	height: 100px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.miembrodeequipo_miembrodeequipo .Rectangle82 {
+	position: absolute;
+	left: 320px;
+	top: 25px;
+	width: 155px;
+	height: 61px;
+	background: rgba(237,239,237,1.00);
+	border-radius: 15px;
+}
+.miembrodeequipo_miembrodeequipo .Inicio {
+	position: absolute;
+	left: 371px;
+	top: 42px;
+	width: 53px;
+	height: 25px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 22px;
+	font-weight: 400;
+	line-height: 25.78125px;
+}
+.miembrodeequipo_miembrodeequipo .Rectangle76 {
+	position: absolute;
+	left: 500px;
+	top: 24px;
+	width: 155px;
+	height: 61px;
+	background: rgba(237,239,237,1.00);
+	border-radius: 15px;
+}
+.miembrodeequipo_miembrodeequipo .Noticias {
+	position: absolute;
+	left: 536px;
+	top: 42px;
+	width: 82px;
+	height: 25px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 22px;
+	font-weight: 400;
+	line-height: 25.78125px;
+}
+.miembrodeequipo_miembrodeequipo .Rectangle78 {
+	position: absolute;
+	left: 680px;
+	top: 25px;
+	width: 155px;
+	height: 61px;
+	background: rgba(237,239,237,1.00);
+	border-radius: 15px;
+}
+.miembrodeequipo_miembrodeequipo .Proyectos {
+	position: absolute;
+	left: 708px;
+	top: 42px;
+	width: 104px;
+	height: 25px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 22px;
+	font-weight: 400;
+	line-height: 25.78125px;
+}
+.miembrodeequipo_miembrodeequipo .Rectangle79 {
+	position: absolute;
+	left: 860px;
+	top: 24px;
+	width: 155px;
+	height: 61px;
+	background: rgba(237,239,237,1.00);
+	border-radius: 15px;
+}
+.miembrodeequipo_miembrodeequipo .Software {
+	position: absolute;
+	left: 898px;
+	top: 42px;
+	width: 84px;
+	height: 26px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 22px;
+	font-weight: 400;
+	line-height: 25.78125px;
+}
+.miembrodeequipo_miembrodeequipo .Rectangle81 {
+	position: absolute;
+	left: 1220px;
+	top: 24px;
+	width: 155px;
+	height: 61px;
+	background: rgba(237,239,237,1.00);
+	border-radius: 15px;
+}
+.miembrodeequipo_miembrodeequipo .Contacto {
+	position: absolute;
+	left: 1252px;
+	top: 42px;
+	width: 90px;
+	height: 25px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 22px;
+	font-weight: 400;
+	line-height: 25.78125px;
+}
+.miembrodeequipo_miembrodeequipo .Component2 {
+	position: absolute;
+	left: 1040px;
+	top: 24px;
+}
+.miembrodeequipo_miembrodeequipo .Component2 .Rectangle80 {
+}
+.miembrodeequipo_miembrodeequipo .Component2 .Nosotros {
+	font-weight: 400;
+}
+.miembrodeequipo_miembrodeequipo .Frame3 {
+	position: absolute;
+	left: 50%;
+	top: 150px;
+	transform: translate(-50%, 0);
+	width: 1326px;
+	height: 679px;
+}
+.miembrodeequipo_miembrodeequipo .Frame3 .Rectangle2 {
+	position: absolute;
+	left: 50.075414781297134%;
+	top: -11px;
+	transform: translate(-50%, 0);
+	width: 1326px;
+	height: 690px;
+	background: rgba(254,254,254,0.86);
+	border-radius: 20px;
+}
+.miembrodeequipo_miembrodeequipo .Frame3 .Rectangle2_1 {
+	position: absolute;
+	left: 50%;
+	top: 725px;
+	transform: translate(-50%, 0);
+	width: 1326px;
+	height: 728px;
+	background: rgba(254,254,254,0.86);
+	border-radius: 20px;
+}
+.miembrodeequipo_miembrodeequipo .Frame3 .Perfildemiembro {
+	position: absolute;
+	left: 50%;
+	top: 12px;
+	transform: translate(-50%, 0);
+	width: 438px;
+	height: 70px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	border: 1px solid rgba(0,0,0,1);
+	font-family: Roboto;
+	font-size: 60px;
+	font-weight: 300;
+	line-height: 70.3125px;
+}
+.miembrodeequipo_miembrodeequipo .Frame3 .DESCRIPCINCarolMoragaesIngenieraenBioinformticadelaUniversidaddeTalca2010ydoctoraenBioinformticadelaUniversidadClaudeBernardLyon1Francia2020Hastael2022sedesempecomoInvestigadorapostdoctoraldelaUniversidaddeOHigginsdeRancaguaenestrechacolaboracinconelCNRSFranciayelCIBIOPortugalendondetrabajaenlageneracindelgenomadereferenciadeSileneLatifolialiderandoelensamblajeyanotacindelcromosomaYqueesunodeloscromosomasYmsgrandesconocidosdeunaespecievegetal550mbymodelodeestudioparaentenderlaevolucindeloscromosomassexuales {
+	position: absolute;
+	left: 109px;
+	top: 385px;
+	width: 1148px;
+	height: 226px;
+	color: rgba(69,69,69,1.00);
+	font-family: Roboto;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 23.4375px;
+}
+.miembrodeequipo_miembrodeequipo .Frame3 .DraCarolMoragaGRADOACADMICOPhDinbioinformaticsUniversitClaudeBernardLyon1FranciaTITULOPROFESIONALIngenieraenbioinformticaUniversidaddeTalca {
+	position: absolute;
+	left: 56.90045248868778%;
+	top: 93px;
+	transform: translate(-50%, 0);
+	width: 741px;
+	height: 292px;
+	color: rgba(61,59,59,1.00);
+	font-family: Slabo 27px;
+	font-size: 25px;
+	font-weight: 400;
+	line-height: 30.55555534362793px;
+}
+.miembrodeequipo_miembrodeequipo .Frame3 .image17 {
+	position: absolute;
+	left: 109px;
+	top: 93px;
+	width: 218px;
+	height: 246px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.miembrodeequipo_miembrodeequipo .Frame3 .Rectangle93 {
+	position: absolute;
+	left: -16px;
+	top: 1515px;
+	width: 1326px;
+	height: 217px;
+	background: rgba(254,254,254,0.86);
+}
+.miembrodeequipo_miembrodeequipo .Frame3 .image13 {
+	position: absolute;
+	left: 2px;
+	top: 1574px;
+	width: 100px;
+	height: 100px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.miembrodeequipo_miembrodeequipo .Frame3 .Somosunequipodeinvestigacinqueconpasinycolaboracintransformaideasenrealidadyconstruyeelfuturo {
+	position: absolute;
+	left: 50.03770739064856%;
+	top: 1534px;
+	transform: translate(-50%, 0);
+	width: 921px;
+	height: 108px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 25px;
+	font-weight: 400;
+	line-height: 29.296875px;
+}
+.miembrodeequipo_miembrodeequipo .Frame3 .Copyright20182024 {
+	position: absolute;
+	left: 50.113122171945705%;
+	top: 1696px;
+	transform: translate(-50%, 0);
+	width: 435px;
+	height: 36px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 25px;
+	font-weight: 600;
+	line-height: 29.296875px;
+}
+.miembrodeequipo_miembrodeequipo .Frame3 .instagramlogo {
+	position: absolute;
+	left: 50.075414781297134%;
+	top: 1617px;
+	transform: translate(-50%, 0);
+	width: 50px;
+	height: 50px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.miembrodeequipo_miembrodeequipo .Frame3 .logox {
+	position: absolute;
+	left: 734px;
+	top: 1617px;
+	width: 50px;
+	height: 50px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.miembrodeequipo_miembrodeequipo .Frame3 .facebook {
+	position: absolute;
+	left: 510px;
+	top: 1617px;
+	width: 50px;
+	height: 50px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.miembrodeequipo_miembrodeequipo .Frame3 .Elmodeladodecrecimientodeplantasseenfocaensimulareldesarrollodelasplantasbajodiversascondicionesambientalescomoluzaguaynutrientes {
+	position: absolute;
+	left: 19.343891402714934%;
+	top: 1180px;
+	transform: translate(-50%, 0);
+	width: 319px;
+	height: 209px;
+	color: rgba(112,109,109,1.00);
+	font-family: Slabo 27px;
+	font-size: 25px;
+	font-weight: 400;
+	line-height: 30.55555534362793px;
+}
+.miembrodeequipo_miembrodeequipo .Frame3 .Rectangle132 {
+	position: absolute;
+	left: 50px;
+	top: 803px;
+	width: 338px;
+	height: 611px;
+	background: rgba(217,217,217,0.00);
+	border-radius: 10px;
+	border: 1px solid rgba(111.56248480081558,108.95937368273735,108.95937368273735,1);
+	box-sizing: border-box;
+}
+.miembrodeequipo_miembrodeequipo .Frame3 .ModelodecrecimientodeplantasJulio2024 {
+	position: absolute;
+	left: 69px;
+	top: 1115px;
+	width: 299px;
+	height: 72px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Slabo 27px;
+	font-size: 28px;
+	font-weight: 400;
+	line-height: 34.22222137451172px;
+}
+.miembrodeequipo_miembrodeequipo .Frame3 .Diseodemicrobiosgenticamentemodificadosquepuedendescomponerplsticosnobiodegradablesensubproductosinofensivos {
+	position: absolute;
+	left: 50.94268476621417%;
+	top: 1231px;
+	transform: translate(-50%, 0);
+	width: 309px;
+	height: 154px;
+	color: rgba(112,109,109,1.00);
+	font-family: Slabo 27px;
+	font-size: 25px;
+	font-weight: 400;
+	line-height: 30.55555534362793px;
+}
+.miembrodeequipo_miembrodeequipo .Frame3 .Rectangle133 {
+	position: absolute;
+	left: 478px;
+	top: 803px;
+	width: 338px;
+	height: 611px;
+	background: rgba(217,217,217,0.00);
+	border-radius: 10px;
+	border: 1px solid rgba(111.56248480081558,108.95937368273735,108.95937368273735,1);
+	box-sizing: border-box;
+}
+.miembrodeequipo_miembrodeequipo .Frame3 .MicrobiosSintticosparalaEliminacindePlsticosEnero2023 {
+	position: absolute;
+	left: 476px;
+	top: 1108px;
+	width: 351px;
+	height: 101px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Slabo 27px;
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 29.333332061767578px;
+}
+.miembrodeequipo_miembrodeequipo .Frame3 .DesarrollodedispositivosporttilesqueutilizantecnologadesecuenciacinrpidadeADNparaladeteccindeenfermedadesentiemporeal {
+	position: absolute;
+	left: 82.61689291101055%;
+	top: 1246px;
+	transform: translate(-50%, 0);
+	width: 301px;
+	height: 137px;
+	color: rgba(112,109,109,1.00);
+	font-family: Slabo 27px;
+	font-size: 25px;
+	font-weight: 400;
+	line-height: 30.55555534362793px;
+}
+.miembrodeequipo_miembrodeequipo .Frame3 .Rectangle134 {
+	position: absolute;
+	left: 906px;
+	top: 803px;
+	width: 338px;
+	height: 611px;
+	background: rgba(217,217,217,0.00);
+	border-radius: 10px;
+	border: 1px solid rgba(111.56248480081558,108.95937368273735,108.95937368273735,1);
+	box-sizing: border-box;
+}
+.miembrodeequipo_miembrodeequipo .Frame3 .SistemasdeDiagnsticoPorttilesBasadosenADNAbril2022 {
+	position: absolute;
+	left: 928px;
+	top: 1108px;
+	width: 287px;
+	height: 101px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Slabo 27px;
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 29.333332061767578px;
+}
+.miembrodeequipo_miembrodeequipo .Frame3 .Elmodeladodecrecimientodeplantasseenfocaensimulareldesarrollodelasplantasbajodiversascondicionesambientalescomoluzaguaynutrientes_1 {
+	position: absolute;
+	left: 19.343891402714934%;
+	top: 1180px;
+	transform: translate(-50%, 0);
+	width: 319px;
+	height: 209px;
+	color: rgba(112,109,109,1.00);
+	font-family: Slabo 27px;
+	font-size: 25px;
+	font-weight: 400;
+	line-height: 30.55555534362793px;
+}
+.miembrodeequipo_miembrodeequipo .Frame3 .Rectangle135 {
+	position: absolute;
+	left: 50px;
+	top: 803px;
+	width: 338px;
+	height: 611px;
+	background: rgba(217,217,217,0.00);
+	border-radius: 10px;
+	border: 1px solid rgba(111.56248480081558,108.95937368273735,108.95937368273735,1);
+	box-sizing: border-box;
+}
+.miembrodeequipo_miembrodeequipo .Frame3 .ModelodecrecimientodeplantasJulio2024_1 {
+	position: absolute;
+	left: 69px;
+	top: 1115px;
+	width: 299px;
+	height: 72px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Slabo 27px;
+	font-size: 28px;
+	font-weight: 400;
+	line-height: 34.22222137451172px;
+}
+.miembrodeequipo_miembrodeequipo .Frame3 .Diseodemicrobiosgenticamentemodificadosquepuedendescomponerplsticosnobiodegradablesensubproductosinofensivos_1 {
+	position: absolute;
+	left: 50.94268476621417%;
+	top: 1231px;
+	transform: translate(-50%, 0);
+	width: 309px;
+	height: 154px;
+	color: rgba(112,109,109,1.00);
+	font-family: Slabo 27px;
+	font-size: 25px;
+	font-weight: 400;
+	line-height: 30.55555534362793px;
+}
+.miembrodeequipo_miembrodeequipo .Frame3 .Rectangle136 {
+	position: absolute;
+	left: 478px;
+	top: 803px;
+	width: 338px;
+	height: 611px;
+	background: rgba(217,217,217,0.00);
+	border-radius: 10px;
+	border: 1px solid rgba(111.56248480081558,108.95937368273735,108.95937368273735,1);
+	box-sizing: border-box;
+}
+.miembrodeequipo_miembrodeequipo .Frame3 .MicrobiosSintticosparalaEliminacindePlsticosEnero2023_1 {
+	position: absolute;
+	left: 476px;
+	top: 1108px;
+	width: 351px;
+	height: 101px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Slabo 27px;
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 29.333332061767578px;
+}
+.miembrodeequipo_miembrodeequipo .Frame3 .DesarrollodedispositivosporttilesqueutilizantecnologadesecuenciacinrpidadeADNparaladeteccindeenfermedadesentiemporeal_1 {
+	position: absolute;
+	left: 82.61689291101055%;
+	top: 1246px;
+	transform: translate(-50%, 0);
+	width: 301px;
+	height: 137px;
+	color: rgba(112,109,109,1.00);
+	font-family: Slabo 27px;
+	font-size: 25px;
+	font-weight: 400;
+	line-height: 30.55555534362793px;
+}
+.miembrodeequipo_miembrodeequipo .Frame3 .Rectangle137 {
+	position: absolute;
+	left: 906px;
+	top: 803px;
+	width: 338px;
+	height: 611px;
+	background: rgba(217,217,217,0.00);
+	border-radius: 10px;
+	border: 1px solid rgba(111.56248480081558,108.95937368273735,108.95937368273735,1);
+	box-sizing: border-box;
+}
+.miembrodeequipo_miembrodeequipo .Frame3 .image22 {
+	position: absolute;
+	left: 101px;
+	top: 838px;
+	width: 236px;
+	height: 202px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.miembrodeequipo_miembrodeequipo .Frame3 .Proyectosrelacionados {
+	position: absolute;
+	left: 412px;
+	top: 725px;
+	width: 471px;
+	height: 56px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 48px;
+	font-weight: 400;
+	line-height: 56.25px;
+}
+.miembrodeequipo_miembrodeequipo .Frame3 .WhatsAppImage20240901at1738231 {
+	position: absolute;
+	left: 517px;
+	top: 815px;
+	width: 284px;
+	height: 248px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.miembrodeequipo_miembrodeequipo .Frame3 .image23 {
+	position: absolute;
+	left: 973px;
+	top: 838px;
+	width: 204px;
+	height: 229px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.miembrodeequipo_miembrodeequipo .Frame3 .Rectangle111 {
+	position: absolute;
+	left: 50px;
+	top: 82px;
+	width: 1209px;
+	height: 513px;
+	background: rgba(217,217,217,0.00);
+	border-radius: 10px;
+	border: 1px solid rgba(111.56248480081558,108.95937368273735,108.95937368273735,1);
+	box-sizing: border-box;
+}

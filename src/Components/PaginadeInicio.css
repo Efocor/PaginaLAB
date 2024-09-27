@@ -1,0 +1,880 @@
+
+.PaginadeInicio_PaginadeInicio {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(255,255,255,1.00);
+}
+.PaginadeInicio_PaginadeInicio .Fondo {
+	position: absolute;
+	left: -2px;
+	top: 0px;
+	width: 1442px;
+	height: 811.125px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.PaginadeInicio_PaginadeInicio .Frame1 {
+	position: absolute;
+	left: 50%;
+	top: 150px;
+	transform: translate(-50%, 0);
+	width: 1326px;
+	height: 660px;
+}
+.PaginadeInicio_PaginadeInicio .Frame1 .Rectangle135 {
+	position: absolute;
+	left: 49.62292609351433%;
+	top: 4276px;
+	transform: translate(-50%, 0);
+	width: 1326px;
+	height: 698px;
+	background: rgba(254,254,254,0.86);
+	border-radius: 20px;
+}
+.PaginadeInicio_PaginadeInicio .Frame1 .Rectangle135_1 {
+	position: absolute;
+	left: 49.924585218702866%;
+	top: 2782px;
+	transform: translate(-50%, 0);
+	width: 1326px;
+	height: 698px;
+	background: rgba(254,254,254,0.86);
+	border-radius: 20px;
+}
+.PaginadeInicio_PaginadeInicio .Frame1 .Rectangle134 {
+	position: absolute;
+	left: 49.924585218702866%;
+	top: 1983px;
+	transform: translate(-50%, 0);
+	width: 1326px;
+	height: 770px;
+	background: rgba(254,254,254,0.86);
+	border-radius: 20px;
+}
+.PaginadeInicio_PaginadeInicio .Frame1 .Rectangle4 {
+	position: absolute;
+	left: 51.35746606334841%;
+	top: 739px;
+	transform: translate(-50%, 0);
+	width: 1326px;
+	height: 730px;
+	background: rgba(254,254,254,0.86);
+	border-radius: 20px;
+}
+.PaginadeInicio_PaginadeInicio .Frame1 .Rectangle2 {
+	position: absolute;
+	left: 50%;
+	top: 0px;
+	transform: translate(-50%, 0);
+	width: 1326px;
+	height: 684px;
+	background: rgba(254,254,254,0.86);
+	border-radius: 20px;
+}
+.PaginadeInicio_PaginadeInicio .Frame1 .Imagenlab {
+	position: absolute;
+	left: 50%;
+	top: 228px;
+	transform: translate(-50%, 0);
+	width: 688px;
+	height: 323px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.PaginadeInicio_PaginadeInicio .Frame1 .EstudiosdeCienciaeInvestigacin {
+	position: absolute;
+	left: 49.698340874811464%;
+	top: 52px;
+	transform: translate(-50%, 0);
+	width: 1232px;
+	height: 70px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 60px;
+	font-weight: 300;
+	line-height: 70.3125px;
+}
+.PaginadeInicio_PaginadeInicio .Frame1 .ltimasNoticias {
+	position: absolute;
+	left: 56.48567119155354%;
+	top: 773px;
+	transform: translate(-50%, 0);
+	width: 896px;
+	height: 56px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 48px;
+	font-weight: 300;
+	line-height: 56.25px;
+}
+.PaginadeInicio_PaginadeInicio .Frame1 .Laciencianoessolounconjuntodeconocimientosesunaformadepensarquenosimpulsaacuestionarexplorarydescubrirloqueannoconocemos {
+	position: absolute;
+	left: 50.98039215686274%;
+	top: 138px;
+	transform: translate(-50%, 0);
+	width: 844px;
+	height: 58px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	mix-blend-mode: normal;
+	font-family: Roboto;
+	font-size: 25px;
+	font-weight: 300;
+	line-height: 29.296875px;
+}
+.PaginadeInicio_PaginadeInicio .Frame1 .ReunindeInvestigacin31deagostode2024ElequipodelCentrodeInnovacinTecnolgicapresentavancesenlaoptimizacinderedesrevisresultadospreliminaresydiscutiestrategiasparafuturosdesafosSedefinieronmetasypasosaseguirenelproyecto {
+	position: absolute;
+	left: 51.35746606334841%;
+	top: 1212px;
+	transform: translate(-50%, 0);
+	width: 906px;
+	height: 116px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 25px;
+	font-weight: 300;
+	line-height: 29.296875px;
+}
+.PaginadeInicio_PaginadeInicio .Frame1 .image1 {
+	position: absolute;
+	left: 51.35746606334841%;
+	top: 880px;
+	transform: translate(-50%, 0);
+	width: 906px;
+	height: 321px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.PaginadeInicio_PaginadeInicio .Frame1 .Rectangle87 {
+	position: absolute;
+	left: -4px;
+	top: 5001px;
+	width: 1326px;
+	height: 217px;
+	background: rgba(254,254,254,0.86);
+}
+.PaginadeInicio_PaginadeInicio .Frame1 .image12 {
+	position: absolute;
+	left: 14px;
+	top: 5060px;
+	width: 100px;
+	height: 100px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.PaginadeInicio_PaginadeInicio .Frame1 .Somosunequipodeinvestigacinqueconpasinycolaboracintransformaideasenrealidadyconstruyeelfuturo {
+	position: absolute;
+	left: 49.6606334841629%;
+	top: 5020px;
+	transform: translate(-50%, 0);
+	width: 921px;
+	height: 108px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Gowun Batang;
+	font-size: 25px;
+	font-weight: 700;
+	line-height: 36.19999694824219px;
+}
+.PaginadeInicio_PaginadeInicio .Frame1 .Copyright20182024 {
+	position: absolute;
+	left: 49.73604826546003%;
+	top: 5182px;
+	transform: translate(-50%, 0);
+	width: 435px;
+	height: 36px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Gowun Batang;
+	font-size: 25px;
+	font-weight: 700;
+	line-height: 36.19999694824219px;
+}
+.PaginadeInicio_PaginadeInicio .Frame1 .instagramlogo {
+	position: absolute;
+	left: 49.698340874811464%;
+	top: 5103px;
+	transform: translate(-50%, 0);
+	width: 50px;
+	height: 50px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.PaginadeInicio_PaginadeInicio .Frame1 .logox {
+	position: absolute;
+	left: 746px;
+	top: 5103px;
+	width: 50px;
+	height: 50px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.PaginadeInicio_PaginadeInicio .Frame1 .facebook {
+	position: absolute;
+	left: 522px;
+	top: 5103px;
+	width: 50px;
+	height: 50px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.PaginadeInicio_PaginadeInicio .Frame1 .Rectangle79 {
+	position: absolute;
+	left: 638px;
+	top: 1387px;
+	width: 155px;
+	height: 47px;
+	background: rgba(232,238,240,1.00);
+	border-radius: 15px;
+}
+.PaginadeInicio_PaginadeInicio .Frame1 .Verms {
+	position: absolute;
+	left: 662px;
+	top: 1387px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Gowun Batang;
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 36.19999694824219px;
+}
+.PaginadeInicio_PaginadeInicio .Frame1 .Rectangle79_1 {
+	position: absolute;
+	left: 496px;
+	top: 591px;
+	width: 370px;
+	height: 47px;
+	background: rgba(237,239,237,1.00);
+	border-radius: 15px;
+}
+.PaginadeInicio_PaginadeInicio .Frame1 .Conocermsacercadenosotros {
+	position: absolute;
+	left: 515px;
+	top: 601px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 28.125px;
+}
+.PaginadeInicio_PaginadeInicio .Frame1 .Rectangle79_2 {
+	position: absolute;
+	left: 610px;
+	top: 3338px;
+	width: 155px;
+	height: 47px;
+	background: rgba(232,238,240,1.00);
+	border-radius: 15px;
+}
+.PaginadeInicio_PaginadeInicio .Frame1 .Verms_1 {
+	position: absolute;
+	left: 634px;
+	top: 3338px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Gowun Batang;
+	font-size: 25px;
+	font-weight: 700;
+	line-height: 36.19999694824219px;
+}
+.PaginadeInicio_PaginadeInicio .Frame1 .Rectangle79_3 {
+	position: absolute;
+	left: 610px;
+	top: 3084px;
+	width: 155px;
+	height: 47px;
+	border-radius: 15px;
+}
+.PaginadeInicio_PaginadeInicio .Frame1 .Verms_2 {
+	position: absolute;
+	left: 634px;
+	top: 3090px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Gowun Batang;
+	font-size: 25px;
+	font-weight: 700;
+	line-height: 36.19999694824219px;
+}
+.PaginadeInicio_PaginadeInicio .Frame1 .Proyectosrelacionados {
+	position: absolute;
+	left: 51.65912518853696%;
+	top: 2012px;
+	transform: translate(-50%, 0);
+	width: 714px;
+	height: 56px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 48px;
+	font-weight: 300;
+	line-height: 56.25px;
+}
+.PaginadeInicio_PaginadeInicio .Frame1 .Nuestrasinvestigaciones {
+	position: absolute;
+	left: 50.75414781297134%;
+	top: 2826px;
+	transform: translate(-50%, 0);
+	width: 714px;
+	height: 56px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 48px;
+	font-weight: 300;
+	line-height: 56.25px;
+}
+.PaginadeInicio_PaginadeInicio .Frame1 .image24 {
+	position: absolute;
+	left: 103px;
+	top: 1520px;
+	width: 1152px;
+	height: 366px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.PaginadeInicio_PaginadeInicio .Frame1 .twitter5336271_12801 {
+	position: absolute;
+	left: 508px;
+	top: 4712px;
+	width: 374px;
+	height: 244px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.PaginadeInicio_PaginadeInicio .Frame1 .title {
+	position: absolute;
+	left: 382px;
+	top: 4304px;
+	width: 520px;
+	height: 48px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 48px;
+	font-weight: 400;
+	line-height: 48px;
+}
+.PaginadeInicio_PaginadeInicio .Frame1 .description {
+	position: absolute;
+	left: 409.5px;
+	top: 4358px;
+	width: 465px;
+	height: 24px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 24px;
+}
+.PaginadeInicio_PaginadeInicio .Frame1 .image25 {
+	position: absolute;
+	left: 92px;
+	top: 4432px;
+	width: 529px;
+	height: 243px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.PaginadeInicio_PaginadeInicio .Frame1 .image {
+	position: absolute;
+	left: 50%;
+	top: 3523px;
+	transform: translate(-50%, 0);
+	width: 1326px;
+	height: 698px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 20px;
+}
+.PaginadeInicio_PaginadeInicio .Frame1 .Rectangle79_4 {
+	position: absolute;
+	left: 393px;
+	top: 3849px;
+	width: 540px;
+	height: 107px;
+	background: rgba(232,238,240,1.00);
+	border-radius: 15px;
+}
+.PaginadeInicio_PaginadeInicio .Frame1 .CONOCENUESTROEQUIPO {
+	position: absolute;
+	left: 432px;
+	top: 3877px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Gowun Batang;
+	font-size: 36px;
+	font-weight: 700;
+	line-height: 52.12799835205078px;
+}
+.PaginadeInicio_PaginadeInicio .Frame1 .Rectangle132 {
+	position: absolute;
+	left: 103px;
+	top: 2139px;
+	width: 323px;
+	height: 476px;
+	background: rgba(217,217,217,0.00);
+	border-radius: 10px;
+	border: 1px solid rgba(111.56248480081558,108.95937368273735,108.95937368273735,1);
+	box-sizing: border-box;
+}
+.PaginadeInicio_PaginadeInicio .Frame1 .ModelodecrecimientodeplantasJulio2024 {
+	position: absolute;
+	left: 121px;
+	top: 2382px;
+	width: 286px;
+	height: 56px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Slabo 27px;
+	font-size: 22px;
+	font-weight: 400;
+	line-height: 34.22222137451172px;
+}
+.PaginadeInicio_PaginadeInicio .Frame1 .Diseodemicrobiosgenticamentemodificadosquepuedendescomponerplsticosnobiodegradablesensubproductosinofensivos {
+	position: absolute;
+	left: 51.84766214177979%;
+	top: 2470px;
+	transform: translate(-50%, 0);
+	width: 295px;
+	height: 120px;
+	color: rgba(112,109,109,1.00);
+	font-family: Slabo 27px;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 24.44444465637207px;
+}
+.PaginadeInicio_PaginadeInicio .Frame1 .Rectangle133 {
+	position: absolute;
+	left: 512px;
+	top: 2139px;
+	width: 323px;
+	height: 476px;
+	background: rgba(217,217,217,0.00);
+	border-radius: 10px;
+	border: 1px solid rgba(111.56248480081558,108.95937368273735,108.95937368273735,1);
+	box-sizing: border-box;
+}
+.PaginadeInicio_PaginadeInicio .Frame1 .MicrobiosSintticosparalaEliminacindePlsticosEnero2023 {
+	position: absolute;
+	left: 510px;
+	top: 2377px;
+	width: 336px;
+	height: 78px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Slabo 27px;
+	font-size: 22px;
+	font-weight: 400;
+	line-height: 29.333332061767578px;
+}
+.PaginadeInicio_PaginadeInicio .Frame1 .DesarrollodedispositivosporttilesqueutilizantecnologadesecuenciacinrpidadeADNparaladeteccindeenfermedadesentiemporeal {
+	position: absolute;
+	left: 81.90045248868778%;
+	top: 2484px;
+	transform: translate(-50%, 0);
+	width: 288px;
+	height: 107px;
+	color: rgba(112,109,109,1.00);
+	font-family: Slabo 27px;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 24.44444465637207px;
+}
+.PaginadeInicio_PaginadeInicio .Frame1 .Rectangle134_1 {
+	position: absolute;
+	left: 921px;
+	top: 2139px;
+	width: 323px;
+	height: 476px;
+	background: rgba(217,217,217,0.00);
+	border-radius: 10px;
+	border: 1px solid rgba(111.56248480081558,108.95937368273735,108.95937368273735,1);
+	box-sizing: border-box;
+}
+.PaginadeInicio_PaginadeInicio .Frame1 .SistemasdeDiagnsticoPorttilesBasadosenADNAbril2022 {
+	position: absolute;
+	left: 942px;
+	top: 2377px;
+	width: 274px;
+	height: 78px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Slabo 27px;
+	font-size: 22px;
+	font-weight: 400;
+	line-height: 29.333332061767578px;
+}
+.PaginadeInicio_PaginadeInicio .Frame1 .Elmodeladodecrecimientodeplantasseenfocaensimulareldesarrollodelasplantasbajodiversascondicionesambientalescomoluzaguaynutrientes {
+	position: absolute;
+	left: 20.324283559577676%;
+	top: 2460px;
+	transform: translate(-50%, 0);
+	width: 305px;
+	height: 163px;
+	color: rgba(112,109,109,1.00);
+	font-family: Slabo 27px;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 24.44444465637207px;
+}
+.PaginadeInicio_PaginadeInicio .Frame1 .Rectangle135_2 {
+	position: absolute;
+	left: 103px;
+	top: 2139px;
+	width: 323px;
+	height: 476px;
+	background: rgba(217,217,217,0.00);
+	border-radius: 10px;
+	border: 1px solid rgba(111.56248480081558,108.95937368273735,108.95937368273735,1);
+	box-sizing: border-box;
+}
+.PaginadeInicio_PaginadeInicio .Frame1 .ModelodecrecimientodeplantasJulio2024_1 {
+	position: absolute;
+	left: 121px;
+	top: 2382px;
+	width: 286px;
+	height: 56px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Slabo 27px;
+	font-size: 22px;
+	font-weight: 400;
+	line-height: 34.22222137451172px;
+}
+.PaginadeInicio_PaginadeInicio .Frame1 .Rectangle136 {
+	position: absolute;
+	left: 512px;
+	top: 2139px;
+	width: 323px;
+	height: 476px;
+	background: rgba(217,217,217,0.00);
+	border-radius: 10px;
+	border: 1px solid rgba(111.56248480081558,108.95937368273735,108.95937368273735,1);
+	box-sizing: border-box;
+}
+.PaginadeInicio_PaginadeInicio .Frame1 .MicrobiosSintticosparalaEliminacindePlsticosEnero2023_1 {
+	position: absolute;
+	left: 510px;
+	top: 2377px;
+	width: 336px;
+	height: 78px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Slabo 27px;
+	font-size: 22px;
+	font-weight: 400;
+	line-height: 29.333332061767578px;
+}
+.PaginadeInicio_PaginadeInicio .Frame1 .Rectangle137 {
+	position: absolute;
+	left: 921px;
+	top: 2139px;
+	width: 323px;
+	height: 476px;
+	background: rgba(217,217,217,0.00);
+	border-radius: 10px;
+	border: 1px solid rgba(111.56248480081558,108.95937368273735,108.95937368273735,1);
+	box-sizing: border-box;
+}
+.PaginadeInicio_PaginadeInicio .Frame1 .image30 {
+	position: absolute;
+	left: 152px;
+	top: 2166px;
+	width: 225px;
+	height: 158px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.PaginadeInicio_PaginadeInicio .Frame1 .WhatsAppImage20240901at1738232 {
+	position: absolute;
+	left: 549px;
+	top: 2148px;
+	width: 272px;
+	height: 194px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.PaginadeInicio_PaginadeInicio .Frame1 .image31 {
+	position: absolute;
+	left: 985px;
+	top: 2166px;
+	width: 195px;
+	height: 179px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.PaginadeInicio_PaginadeInicio .Frame1 .ModeladodeRedesdeSealizacin {
+	position: absolute;
+	left: 388px;
+	top: 2904px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(8,59,95,1.00);
+	font-family: Roboto;
+	font-size: 36px;
+	font-weight: 300;
+	line-height: 42.1875px;
+}
+.PaginadeInicio_PaginadeInicio .Frame1 .ModeladodeFotosntesis {
+	position: absolute;
+	left: 530px;
+	top: 3172px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(8,59,95,1.00);
+	font-family: Roboto;
+	font-size: 36px;
+	font-weight: 300;
+	line-height: 42.1875px;
+}
+.PaginadeInicio_PaginadeInicio .Frame1 .Elmodeladoderedesdesealizacinenplantasexploracmolassealesinternasyexternassonprocesadasparaactivarrespuestasespecficascomoladefensacontrapatgenos {
+	position: absolute;
+	left: 58.521870286576174%;
+	top: 2956px;
+	transform: translate(-50%, 0);
+	width: 776px;
+	height: 178px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 24px;
+	font-weight: 300;
+	line-height: 28.125px;
+}
+.PaginadeInicio_PaginadeInicio .Frame1 .imagen21 {
+	position: absolute;
+	left: 990px;
+	top: 3172px;
+	width: 240px;
+	height: 206px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 50px;
+}
+.PaginadeInicio_PaginadeInicio .Frame1 .imagen31 {
+	position: absolute;
+	left: 103px;
+	top: 2904px;
+	width: 255px;
+	height: 208px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 50px;
+}
+.PaginadeInicio_PaginadeInicio .Frame1 .ElmodeladodefotosntesissimulacmolasplantasconviertenlaluzsolarenenergaqumicateniendoencuentafactorescomointensidaddeluzconcentracindeCO2ytemperatura {
+	position: absolute;
+	left: 44.4947209653092%;
+	top: 3235px;
+	transform: translate(-50%, 0);
+	width: 776px;
+	height: 105px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 25px;
+	font-weight: 300;
+	line-height: 29.296875px;
+}
+.PaginadeInicio_PaginadeInicio .Frame1 .image33 {
+	position: absolute;
+	left: 811px;
+	top: 4427px;
+	width: 438px;
+	height: 285px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.PaginadeInicio_PaginadeInicio .Rectangle75 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1440px;
+	height: 109px;
+}
+.PaginadeInicio_PaginadeInicio .image11 {
+	position: absolute;
+	left: 35px;
+	top: 5px;
+	width: 100px;
+	height: 100px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.PaginadeInicio_PaginadeInicio .Rectangle82 {
+	position: absolute;
+	left: 320px;
+	top: 25px;
+	width: 155px;
+	height: 61px;
+	background: linear-gradient(180deg, rgba(204, 238, 233, 1.00) 0.0%, rgba(1, 99, 166, 1.00) 100.0%);
+	border-radius: 15px;
+}
+.PaginadeInicio_PaginadeInicio .Inicio {
+	position: absolute;
+	left: 371px;
+	top: 42px;
+	width: 53px;
+	height: 25px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 22px;
+	font-weight: 400;
+	line-height: 25.78125px;
+}
+.PaginadeInicio_PaginadeInicio .Rectangle76 {
+	position: absolute;
+	left: 500px;
+	top: 24px;
+	width: 155px;
+	height: 61px;
+	background: rgba(237,239,237,1.00);
+	border-radius: 15px;
+}
+.PaginadeInicio_PaginadeInicio .Noticias {
+	position: absolute;
+	left: 536px;
+	top: 42px;
+	width: 82px;
+	height: 25px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 22px;
+	font-weight: 400;
+	line-height: 25.78125px;
+}
+.PaginadeInicio_PaginadeInicio .Rectangle78 {
+	position: absolute;
+	left: 680px;
+	top: 25px;
+	width: 155px;
+	height: 61px;
+	background: rgba(237,239,237,1.00);
+	border-radius: 15px;
+}
+.PaginadeInicio_PaginadeInicio .Proyectos {
+	position: absolute;
+	left: 708px;
+	top: 42px;
+	width: 104px;
+	height: 25px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 22px;
+	font-weight: 400;
+	line-height: 25.78125px;
+}
+.PaginadeInicio_PaginadeInicio .Rectangle79_5 {
+	position: absolute;
+	left: 860px;
+	top: 24px;
+	width: 155px;
+	height: 61px;
+	background: rgba(237,239,237,1.00);
+	border-radius: 15px;
+}
+.PaginadeInicio_PaginadeInicio .Software {
+	position: absolute;
+	left: 898px;
+	top: 42px;
+	width: 84px;
+	height: 26px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 22px;
+	font-weight: 400;
+	line-height: 25.78125px;
+}
+.PaginadeInicio_PaginadeInicio .Rectangle81 {
+	position: absolute;
+	left: 1220px;
+	top: 24px;
+	width: 155px;
+	height: 61px;
+	background: rgba(237,239,237,1.00);
+	border-radius: 15px;
+}
+.PaginadeInicio_PaginadeInicio .Contacto {
+	position: absolute;
+	left: 1252px;
+	top: 42px;
+	width: 90px;
+	height: 25px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 22px;
+	font-weight: 400;
+	line-height: 25.78125px;
+}
+.PaginadeInicio_PaginadeInicio .Component1 {
+	position: absolute;
+	left: 1040px;
+	top: 24px;
+}
+.PaginadeInicio_PaginadeInicio .Component1 .Rectangle80 {
+}
+.PaginadeInicio_PaginadeInicio .Component1 .Nosotros {
+	font-weight: 400;
+}
