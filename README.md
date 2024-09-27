@@ -1,8 +1,5 @@
-## Step to run the project
 
-### 1. Please make sure that you already have [Node.js](https://nodejs.org/en/download/) installed in your local machine
-
-### 2. `npm install` or `npm i`
-Install libraries and dependencies.
-### 3. `npm start`
-Start the project.
+=======
+# PaginaLAB
+Repositorio del sitio web creado para mostrar el laboratorio de BIOING.
+>>>>>>> dbff0566c5592d2c9b0bea60dcd751fb59f130f6
