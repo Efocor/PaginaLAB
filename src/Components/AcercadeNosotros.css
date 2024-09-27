@@ -77,9 +77,8 @@
 	justify-content: center;
 	text-align: center;
 	color: rgba(0,0,0,1.00);
-	border: 1px solid rgba(0,0,0,1);
 	font-family: Roboto;
-	font-size: 60px;
+	font-size: 50px;
 	font-weight: 300;
 	line-height: 70.3125px;
 }
@@ -94,7 +93,6 @@
 	justify-content: center;
 	text-align: center;
 	color: rgba(0,0,0,1.00);
-	border: 1px solid rgba(0,0,0,1);
 	font-family: Roboto;
 	font-size: 60px;
 	font-weight: 300;
@@ -108,9 +106,8 @@
 	width: 391px;
 	height: 70px;
 	color: rgba(0,0,0,1.00);
-	border: 1px solid rgba(0,0,0,1);
 	font-family: Roboto;
-	font-size: 60px;
+	font-size: 50px;
 	font-weight: 300;
 	line-height: 70.3125px;
 }
@@ -125,9 +122,8 @@
 	justify-content: center;
 	text-align: center;
 	color: rgba(0,0,0,1.00);
-	border: 1px solid rgba(0,0,0,1);
 	font-family: Roboto;
-	font-size: 60px;
+	font-size: 50px;
 	font-weight: 300;
 	line-height: 70.3125px;
 }
@@ -234,8 +230,6 @@
 	position: absolute;
 	left: 616px;
 	top: 2822px;
-	width: 107px;
-	height: 36px;
 	color: rgba(0,0,0,1.00);
 	font-family: Gowun Batang;
 	font-size: 25px;

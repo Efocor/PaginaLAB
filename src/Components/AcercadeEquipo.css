@@ -58,7 +58,7 @@
 	height: 119px;
 	color: rgba(0,0,0,1.00);
 	font-family: Roboto;
-	font-size: 23px;
+	font-size: 21px;
 	font-weight: 300;
 	line-height: 26.953125px;
 }
@@ -190,16 +190,15 @@
 	justify-content: center;
 	text-align: center;
 	color: rgba(0,0,0,1.00);
-	border: 1px solid rgba(0,0,0,1);
 	font-family: Roboto;
-	font-size: 60px;
+	font-size: 50px;
 	font-weight: 300;
 	line-height: 70.3125px;
 }
 .AcercadeEquipo_AcercadeEquipo .Frame3 .AntiguosMiembrosdelEquipo {
 	position: absolute;
 	left: 49.321266968325794%;
-	top: 735px;
+	top: 715px;
 	transform: translate(-50%, 0);
 	width: 754px;
 	height: 70px;
@@ -207,7 +206,6 @@
 	justify-content: center;
 	text-align: center;
 	color: rgba(0,0,0,1.00);
-	border: 1px solid rgba(0,0,0,1);
 	font-family: Roboto;
 	font-size: 60px;
 	font-weight: 300;
@@ -305,7 +303,7 @@
 .AcercadeEquipo_AcercadeEquipo .Frame3 .DraAndreaMontalvo {
 	position: absolute;
 	left: 954px;
-	top: 400px;
+	top: 380px;
 	width: 294px;
 	height: 28px;
 	display: flex;
@@ -313,7 +311,7 @@
 	text-align: center;
 	color: rgba(1,99,166,1.00);
 	font-family: Roboto;
-	font-size: 32px;
+	font-size: 29px;
 	font-weight: 400;
 	line-height: 37.5px;
 }
@@ -329,15 +327,13 @@
 .AcercadeEquipo_AcercadeEquipo .Frame3 .Verperfil {
 	position: absolute;
 	left: 1048px;
-	top: 567px;
-	width: 110px;
-	height: 28px;
+	top: 560px;
 	display: flex;
 	justify-content: center;
 	text-align: center;
 	color: rgba(0,0,0,1.00);
 	font-family: Slabo 27px;
-	font-size: 32px;
+	font-size: 22px;
 	font-weight: 400;
 	line-height: 39.11111068725586px;
 }
@@ -353,7 +349,7 @@
 .AcercadeEquipo_AcercadeEquipo .Frame3 .Verperfil_1 {
 	position: absolute;
 	left: 610px;
-	top: 570px;
+	top: 560px;
 	width: 110px;
 	height: 26px;
 	display: flex;
@@ -361,7 +357,7 @@
 	text-align: center;
 	color: rgba(0,0,0,1.00);
 	font-family: Slabo 27px;
-	font-size: 32px;
+	font-size: 22px;
 	font-weight: 400;
 	line-height: 39.11111068725586px;
 }
@@ -373,21 +369,6 @@
 	height: 32px;
 	background: rgba(114,235,210,1.00);
 	border-radius: 10px;
-}
-.AcercadeEquipo_AcercadeEquipo .Frame3 .Cargarms {
-	position: absolute;
-	left: 153px;
-	top: 565px;
-	width: 139px;
-	height: 28px;
-	display: flex;
-	justify-content: center;
-	text-align: center;
-	color: rgba(0,0,0,1.00);
-	font-family: Slabo 27px;
-	font-size: 32px;
-	font-weight: 400;
-	line-height: 39.11111068725586px;
 }
 .AcercadeEquipo_AcercadeEquipo .Frame3 .Rectangle122 {
 	position: absolute;
@@ -401,7 +382,7 @@
 .AcercadeEquipo_AcercadeEquipo .Frame3 .Verperfil_2 {
 	position: absolute;
 	left: 167px;
-	top: 565px;
+	top: 560px;
 	width: 110px;
 	height: 28px;
 	display: flex;
@@ -409,7 +390,7 @@
 	text-align: center;
 	color: rgba(0,0,0,1.00);
 	font-family: Slabo 27px;
-	font-size: 32px;
+	font-size: 22px;
 	font-weight: 400;
 	line-height: 39.11111068725586px;
 }

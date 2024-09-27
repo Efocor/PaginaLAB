@@ -57,7 +57,6 @@
 	justify-content: center;
 	text-align: center;
 	color: rgba(0,0,0,1.00);
-	border: 1px solid rgba(0,0,0,1);
 	font-family: Roboto;
 	font-size: 48px;
 	font-weight: 300;
@@ -261,7 +260,7 @@
 	text-align: center;
 	color: rgba(0,0,0,1.00);
 	font-family: Slabo 27px;
-	font-size: 28px;
+	font-size: 22px;
 	font-weight: 400;
 	line-height: 34.22222137451172px;
 }
@@ -287,7 +286,7 @@
 	text-align: center;
 	color: rgba(0,0,0,1.00);
 	font-family: Slabo 27px;
-	font-size: 28px;
+	font-size: 22px;
 	font-weight: 400;
 	line-height: 34.22222137451172px;
 }
@@ -370,7 +369,6 @@
 	justify-content: center;
 	text-align: center;
 	color: rgba(0,0,0,1.00);
-	border: 1px solid rgba(0,0,0,1);
 	font-family: Roboto;
 	font-size: 48px;
 	font-weight: 300;

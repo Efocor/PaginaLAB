@@ -197,13 +197,11 @@
 	left: 50%;
 	top: 12px;
 	transform: translate(-50%, 0);
-	width: 438px;
-	height: 70px;
+	
 	display: flex;
 	justify-content: center;
 	text-align: center;
 	color: rgba(0,0,0,1.00);
-	border: 1px solid rgba(0,0,0,1);
 	font-family: Roboto;
 	font-size: 60px;
 	font-weight: 300;
@@ -322,7 +320,7 @@
 }
 .miembrodeequipo_miembrodeequipo .Frame3 .Elmodeladodecrecimientodeplantasseenfocaensimulareldesarrollodelasplantasbajodiversascondicionesambientalescomoluzaguaynutrientes {
 	position: absolute;
-	left: 19.343891402714934%;
+	left: 18%;
 	top: 1180px;
 	transform: translate(-50%, 0);
 	width: 319px;
@@ -361,14 +359,14 @@
 }
 .miembrodeequipo_miembrodeequipo .Frame3 .Diseodemicrobiosgenticamentemodificadosquepuedendescomponerplsticosnobiodegradablesensubproductosinofensivos {
 	position: absolute;
-	left: 50.94268476621417%;
+	left: 49%;
 	top: 1231px;
 	transform: translate(-50%, 0);
 	width: 309px;
 	height: 154px;
 	color: rgba(112,109,109,1.00);
 	font-family: Slabo 27px;
-	font-size: 25px;
+	font-size: 22px;
 	font-weight: 400;
 	line-height: 30.55555534362793px;
 }
@@ -400,14 +398,14 @@
 }
 .miembrodeequipo_miembrodeequipo .Frame3 .DesarrollodedispositivosporttilesqueutilizantecnologadesecuenciacinrpidadeADNparaladeteccindeenfermedadesentiemporeal {
 	position: absolute;
-	left: 82.61689291101055%;
-	top: 1246px;
+	left: 81.61689291101055%;
+	top: 1196px;
 	transform: translate(-50%, 0);
 	width: 301px;
 	height: 137px;
 	color: rgba(112,109,109,1.00);
 	font-family: Slabo 27px;
-	font-size: 25px;
+	font-size: 22px;
 	font-weight: 400;
 	line-height: 30.55555534362793px;
 }
@@ -439,7 +437,7 @@
 }
 .miembrodeequipo_miembrodeequipo .Frame3 .Elmodeladodecrecimientodeplantasseenfocaensimulareldesarrollodelasplantasbajodiversascondicionesambientalescomoluzaguaynutrientes_1 {
 	position: absolute;
-	left: 19.343891402714934%;
+	left: 18%;
 	top: 1180px;
 	transform: translate(-50%, 0);
 	width: 319px;
@@ -478,14 +476,14 @@
 }
 .miembrodeequipo_miembrodeequipo .Frame3 .Diseodemicrobiosgenticamentemodificadosquepuedendescomponerplsticosnobiodegradablesensubproductosinofensivos_1 {
 	position: absolute;
-	left: 50.94268476621417%;
+	left: 49%;
 	top: 1231px;
 	transform: translate(-50%, 0);
 	width: 309px;
 	height: 154px;
 	color: rgba(112,109,109,1.00);
 	font-family: Slabo 27px;
-	font-size: 25px;
+	font-size: 22px;
 	font-weight: 400;
 	line-height: 30.55555534362793px;
 }
@@ -517,14 +515,14 @@
 }
 .miembrodeequipo_miembrodeequipo .Frame3 .DesarrollodedispositivosporttilesqueutilizantecnologadesecuenciacinrpidadeADNparaladeteccindeenfermedadesentiemporeal_1 {
 	position: absolute;
-	left: 82.61689291101055%;
-	top: 1246px;
+	left: 81.61689291101055%;
+	top: 1196px;
 	transform: translate(-50%, 0);
 	width: 301px;
 	height: 137px;
 	color: rgba(112,109,109,1.00);
 	font-family: Slabo 27px;
-	font-size: 25px;
+	font-size: 22px;
 	font-weight: 400;
 	line-height: 30.55555534362793px;
 }
@@ -551,7 +549,7 @@
 .miembrodeequipo_miembrodeequipo .Frame3 .Proyectosrelacionados {
 	position: absolute;
 	left: 412px;
-	top: 725px;
+	top: 675px;
 	width: 471px;
 	height: 56px;
 	display: flex;
